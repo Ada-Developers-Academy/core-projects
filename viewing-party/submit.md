@@ -5,10 +5,10 @@
 <!-- prettier-ignore-start -->
 ### !challenge
 * type: testable-project
-* id: 7857069b-b978-492e-a9f7-e4b5604ba362
-* title: Viewing Party
+* id: BxHGhu
+* title: Fork URL for Grading
 * upstream: https://github.com/AdaGold/viewing-party
-* validate_fork: true
+* validate_fork: false
 * points: [3]
 * topics: [python, fundamentals, data structures]
 ##### !question
@@ -45,7 +45,7 @@ Instructors provide code feedback through pull requests.
 ### !challenge
 * type: short-answer
 * id: bd0a629e-32c3-4c66-976b-654ab4e7f430
-* title: [text, a short question title]
+* title: Pull Request for Feedback
 * points: [3]
 * topics: [python, fundamentals, data structures]
 ##### !question
