@@ -1,0 +1,43 @@
+---
+Standards:
+  -
+    Title: Ada Project Practices
+    Description: How to Submit
+    UID: 3fc7752e2637f641643b9be4b1e005cc
+    SuccessCriteria:
+      - success criteria
+    ContentFiles:
+      -
+        Type: Lesson
+        UID: a2bcf77b287de2764675801ed5667e3b
+        Path: /ada-project-practices/how-to-submit.md
+  -
+    Title: Viewing Party
+    Description: "Unit 1 Project: Programming Fundamentals"
+    UID: 687ba6c9a090110d939df3281701e530
+    SuccessCriteria:
+      - success criteria
+    ContentFiles:
+      -
+        Type: Lesson
+        UID: e43d905381b974a17896b57e9012c9e6
+        Path: /viewing-party/intro.md
+      -
+        Type: Lesson
+        UID: 79b4aad1f3dbbcd07eb6010a6feb8c9e
+        Path: /viewing-party/submit.md
+  -
+    Title: Swap Meet
+    Description: "Unit 1 Project: OOP"
+    UID: 16de2f5e87b819e86222da4634fc6308
+    SuccessCriteria:
+      - success criteria
+    ContentFiles:
+      -
+        Type: Lesson
+        UID: 4ee74067a533f2df08781158cc7116b7
+        Path: /swap-meet/intro.md
+      -
+        Type: Checkpoint
+        UID: 094ab5b9366d7d1a7b26f82950f43efe
+        Path: /swap-meet/submit.md
