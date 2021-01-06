@@ -1,3 +1,5 @@
+# How to Submit
+
 ## How to Submit a Project
 
 Unless there are other directions, the typical flow for submitting a project is
