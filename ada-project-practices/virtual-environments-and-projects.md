@@ -36,7 +36,7 @@ The phrase "dev environment" describes the setup of a computer system used to ru
 
 A virtual environment is an environment that is virtually created. In this case, "virtual" means that something exists, but not in actuality. A virtual environment is an entire computer system that installs and runs software, but it doesn't inhabit a dedicated physical machine... it was created and runs inside another environment.
 
-If we wanted to suddenly write one project in specifically Python 3.8.4, but our current laptop has Python 3.8.5 installed, instead of reinstalling and uninstalling different versions of Python, we would might carry around a second laptop.
+If we wanted to suddenly write one project in specifically Python 3.8.4, but our current laptop has Python 3.8.5 installed, instead of reinstalling and uninstalling different versions of Python, we might be required to carry around a second laptop.
 
 Instead of carrying around laptops, we could use virtual environments.
 
