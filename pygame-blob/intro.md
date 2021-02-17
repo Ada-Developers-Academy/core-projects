@@ -15,15 +15,20 @@ Python is such a versatile language. We can create APIs, do data analysis, build
 **What is pygame?**
 
 Pygame is a library that allows developers to create games using Python.
-To provide a better visual picture of OOP, we’ll be creating a mini-game of blobs!
+To provide a better visual picture of OOP, we’ll be creating a mini-game of blobs! 
 
 (Insert gif of finished project)
 
 
+## Project
+
+Pyblobs will be a **2-day project**. The first day will consist of a tutorial which can be done independently. The second day will consist of working in pairs to extend the project made from the tutorial.
+
+
 ## Tutorial
 
-This project will be a **pair project**. In pairs, we'll follow this tutorial on [pythonprogramming.net](https://pythonprogramming.net/object-oriented-programming-introduction-intermediate-python-tutorial/). We'll work with our partner to debug, explore the [pygame library](https://www.pygame.org/docs/), and add own creative twist! 
-This project should 2 days to finish and a link with the finished project will be submitted as a pair. 
+The tutorial will be done independently on day 1 of the project. We'll follow this tutorial on [pythonprogramming.net](https://pythonprogramming.net/object-oriented-programming-introduction-intermediate-python-tutorial/). 
+
 
 ## Initial Set Up
 
@@ -56,4 +61,18 @@ The [tutorial](https://pythonprogramming.net/object-oriented-programming-introdu
 - [Special Methods, OOP, and Iteration Python](https://pythonprogramming.net/special-methods-iteration-intermediate-python-tutorial/)
 
 
+## Pair Project Waves
+
+Now that we have a functioning game, let's use what we learned about OOP to expand Pyblobs. Work with your partner to execute Wave 1 and Wave 2. Both waves can be executed a variety of ways and breaking down each feature into sub-problems is highly encouraged. Feel free to get as creative as you want with these next waves:
+
+### Wave 1
+
+**Make blobs bounce off of the walls.** Alter the `move` function in `Blobs` so that when a blob touches a wall, it will move towards the opposite direction.
+
+### Wave 2
+
+**Create another class of Blob**. When one blob touches a 'collectable' blob, make the collectable blob grow in size. 
+
+
+## Submission tbd 
 
