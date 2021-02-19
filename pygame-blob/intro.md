@@ -10,12 +10,12 @@
     - Using dunder methods
 
 ## Goals
-Python is such a versatile language. We can create APIs, do data analysis, build web apps, and create games! In this project, we will use OOP to build a game in pygame. 
+Python is such a versatile language. We can create APIs, do data analysis, build web apps, and create games! In this project, we will use OOP to build an animation in pygame. 
 
 **What is pygame?**
 
 Pygame is a library that allows developers to create games using Python.
-To provide a better visual picture of OOP, we’ll be creating a mini-game of blobs! 
+To provide a better visual picture of OOP, we’ll be creating an animation of blobs! 
 
 (Insert gif of finished project)
 
@@ -54,10 +54,9 @@ The [tutorial](https://pythonprogramming.net/object-oriented-programming-introdu
 - [Blob Class and Modularity OOP](https://pythonprogramming.net/class-object-modularity-intermediate-python-tutorial/)
 - [Inheritance - OOP](https://pythonprogramming.net/inheritance-object-oriented-programming-intermediate-python-tutorial/)
 
-### Wave 3
-- [Decorators in Python](https://pythonprogramming.net/decorators-intermediate-python-tutorial/)
-- [Operator Overloading](https://pythonprogramming.net/operator-overloading-intermediate-python-tutorial/)
-- [Detecting collisions](https://pythonprogramming.net/detecting-collisions-intermediate-python-tutorial/)
+### Wave 3 (Optional Reading)
+- [Decorators in Python](https://pythonprogramming.net/decorators-intermediate-python-tutorial/) 
+- [Operator Overloading](https://pythonprogramming.net/operator-overloading-intermediate-python-tutorial/) 
 - [Special Methods, OOP, and Iteration Python](https://pythonprogramming.net/special-methods-iteration-intermediate-python-tutorial/)
 
 
@@ -67,12 +66,10 @@ Now that we have a functioning game, let's use what we learned about OOP to expa
 
 ### Wave 1
 
-**Make blobs bounce off of the walls.** Alter the `move` function in `Blobs` so that when a blob touches a wall, it will move towards the opposite direction.
+**Make blobs bounce off of the walls.** Alter the `check_bounds` and customize the `move` function in the `Blobs` class so that when a blob touches a wall, it will move towards the opposite direction.
 
 ### Wave 2
 
-**Create another class of Blob**. When one blob touches a 'collectable' blob, make the collectable blob grow in size. 
+**Create another class of Blob and create your own special collision effect**. When an instance of your custom Blob class collides with another blob, create a collision effect that can involve blobs shrinking, growing, changing colors or increasing some type of counter. Work your partner to create this special collision effect. Feel free to refer to [Detecting collisions](https://pythonprogramming.net/detecting-collisions-intermediate-python-tutorial/) for an example.
 
-
-## Submission tbd 
 
