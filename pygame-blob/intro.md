@@ -54,7 +54,7 @@ The [tutorial](https://pythonprogramming.net/object-oriented-programming-introdu
 - [Blob Class and Modularity OOP](https://pythonprogramming.net/class-object-modularity-intermediate-python-tutorial/)
 - [Inheritance - OOP](https://pythonprogramming.net/inheritance-object-oriented-programming-intermediate-python-tutorial/)
 
-Optional Reading
+### Optional Reading
 - [Decorators in Python](https://pythonprogramming.net/decorators-intermediate-python-tutorial/) 
 - [Special Methods, OOP, and Iteration Python](https://pythonprogramming.net/special-methods-iteration-intermediate-python-tutorial/)
 
