@@ -65,7 +65,7 @@ Now that we have a functioning game, let's use what we learned about OOP to expa
 
 ### Wave 1
 
-**Make blobs bounce off of the walls.** Alter `check_bounds` and customize `move` in the `Blobs` class so that when a blob touches a wall, it will move towards the opposite direction.
+**Make a RedBlob class** Red blobs will move much faster than blue blobs and will move towards the opposite direction after touching a wall. To do this, we will use method overriding to change the `move` and `check_bounds` methods in the Red Blobs class. 
 
 ### Wave 2
 
