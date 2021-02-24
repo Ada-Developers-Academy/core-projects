@@ -54,9 +54,8 @@ The [tutorial](https://pythonprogramming.net/object-oriented-programming-introdu
 - [Blob Class and Modularity OOP](https://pythonprogramming.net/class-object-modularity-intermediate-python-tutorial/)
 - [Inheritance - OOP](https://pythonprogramming.net/inheritance-object-oriented-programming-intermediate-python-tutorial/)
 
-### Wave 3 (Optional Reading)
+Optional Reading
 - [Decorators in Python](https://pythonprogramming.net/decorators-intermediate-python-tutorial/) 
-- [Operator Overloading](https://pythonprogramming.net/operator-overloading-intermediate-python-tutorial/) 
 - [Special Methods, OOP, and Iteration Python](https://pythonprogramming.net/special-methods-iteration-intermediate-python-tutorial/)
 
 
@@ -66,7 +65,7 @@ Now that we have a functioning game, let's use what we learned about OOP to expa
 
 ### Wave 1
 
-**Make blobs bounce off of the walls.** Alter the `check_bounds` and customize the `move` function in the `Blobs` class so that when a blob touches a wall, it will move towards the opposite direction.
+**Make blobs bounce off of the walls.** Alter `check_bounds` and customize `move` in the `Blobs` class so that when a blob touches a wall, it will move towards the opposite direction.
 
 ### Wave 2
 
