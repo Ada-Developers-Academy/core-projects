@@ -78,9 +78,8 @@ Now that we have a functioning animation, let's use what we learned about OOP to
 **Make a New Child Class of Blob** This blob can be any color, size, or shape. Using method overriding, make this new class move differently than other blobs. 
 
 Consider the following possible behaviors for the blobs: 
- 
  - follow the [mouse](https://www.pygame.org/docs/ref/mouse.html#pygame.mouse.get_pos) or
- - randomly teleport when crossing an arbitray x position.
+ - randomly teleport when crossing an arbitrary x position.
 
 ### Wave 2
 **Create a custom collision effect** 

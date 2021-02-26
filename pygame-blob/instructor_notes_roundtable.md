@@ -1,0 +1,23 @@
+*** DRAFT: Until further discussion about Roundtables **
+
+**Instructor Info**:
+
+The first part of the project will be an autograded, submission in Learn (students will just need to submit repl.it link)
+
+Fork from this (folder)[https://repl.it/repls/folder/PyBlobs] with links to solutions and starter kits.
+
+**Roundtable Agenda**:
+
+General:
+- Start class with with show-your-blobs from submission link
+
+LiveCode:
+- Instructor does a LiveCode with this [starter kit](https://repl.it/@audreyandoy/pyblobsroundtablestarter#main.py) of how to refactor
+- Goal is to refactor draw_environment function.
+- And highlight notes of key topics
+- Separation of concerns
+- New Class and Method Overriding Green blobs will move much faster than blue blobs and will move towards the opposite direction after touching a wall. To do this, we will use method overriding to change the `move` and `check_bounds` methods in the Red Blobs class. 
+
+Introduce Pair Project
+- Introduce Pair Project
+- Setup Multiplayer 
