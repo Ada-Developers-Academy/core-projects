@@ -16,7 +16,7 @@ LiveCode:
 - Goal is to refactor draw_environment function.
 - And highlight notes of key topics
 - Separation of concerns
-- New Class and Method Overriding Green blobs will move much faster than blue blobs and will move towards the opposite direction after touching a wall. To do this, we will use method overriding to change the `move` and `check_bounds` methods in the Red Blobs class. 
+- New Class and Method Overriding: Green blobs will move much faster than blue blobs and will move in the opposite direction after touching a wall. To do this, we will use method overriding to change the `move` and `check_bounds` methods in the Green Blobs class. 
 
 Introduce Pair Project
 - Introduce Pair Project

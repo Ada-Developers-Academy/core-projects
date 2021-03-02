@@ -52,18 +52,54 @@ We will complete 5 lessons from this [tutorial](https://pythonprogramming.net/ob
 ### Create many moving blobs
 - [Many blobs - OOP](https://pythonprogramming.net/many-blob-objects-intermediate-python-tutorial/)
 - [Blob Class and Modularity OOP](https://pythonprogramming.net/class-object-modularity-intermediate-python-tutorial/)
-
-### Reflection Question 1: `check_bounds`
-At the end of the lesson, the author has this to say about the `check_bounds` method: "Now, the programmer can decide to use it or not. You could also give some sort of argument in the move method, where, if `True`, then boundaries would be enforced."
-
-Consider how your would implement this optional enforcement of boundary checking, and record your thoughts here.
-
 - [Inheritance - OOP](https://pythonprogramming.net/inheritance-object-oriented-programming-intermediate-python-tutorial/)
 
-- ### Reflection Question 2: `move` vs `move_fast`
+<!-- prettier-ignore-start -->
+### !challenge
 
+* type: short-answer
+* id: be417a18-aed2-47a0-87ff-ff53c2bdf5a2
+* title: Reflection Question 1: check_bounds
+
+##### !question
+At the end of the lesson, the author has this to say about the check_bounds method: "Now, the programmer can decide to use it or not. You could also give some sort of argument in the move method, where, if `True`, then boundaries would be enforced."
+
+Consider how you would implement this optional enforcement of boundary checking, and record your thoughts here.
+##### !end-question
+
+##### !answer
+/*+/
+##### !end-answer
+
+##### !placeholder
+Input your answer here
+##### !end-placeholder
+
+### !end-challenge
+<!-- prettier-ignore-end -->
+
+<!--prettier-ignore-start-->
+### !challenge
+
+* type: short-answer
+* id: 5d71a7a1-872d-4b4b-9744-4ced52d0985b
+* title: Reflection Question 2: `move` vs `move_fast`
+
+##### !question
 The author changes the name of the `move` method to `move_fast` in the child class `BlueBlob`. Is this name change necessary? What would happen if we left it as `move`?
+##### !end-question
 
+##### !answer
+/*+/
+##### !end-answer
+
+##### !placeholder
+Input your answer here
+##### !end-placeholder
+
+### !end-challenge
+
+<!-- prettier-ignore-end -->
 
 ### Optional Reading (No more blobs, but some fun python OOP concepts)
 - [Decorators in Python](https://pythonprogramming.net/decorators-intermediate-python-tutorial/) 
