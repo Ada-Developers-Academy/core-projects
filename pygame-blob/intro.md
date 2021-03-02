@@ -105,7 +105,7 @@ Input your answer here
 - [Decorators in Python](https://pythonprogramming.net/decorators-intermediate-python-tutorial/) 
 - [Special Methods, OOP, and Iteration Python](https://pythonprogramming.net/special-methods-iteration-intermediate-python-tutorial/)
 
-## Pair Project
+## Pair Project - Day 2
 
 Now that we have a functioning animation, let's use what we learned about OOP to expand Pyblobs. Work with your partner to execute Wave 1 and Wave 2. Both waves can be executed a variety of ways and breaking down each feature into sub-problems is highly encouraged. Feel free to get as creative as you want with these next waves:
 
@@ -144,5 +144,4 @@ def handle_collisions(blob_list):
 ```
 
 2) Create a collision effect to the new class made in Wave 1. The effect can involve blobs shrinking, growing, changing colors or increasing a counter variable. Feel free to refer to [Detecting collisions](https://pythonprogramming.net/detecting-collisions-intermediate-python-tutorial/) for an example.
-
 
