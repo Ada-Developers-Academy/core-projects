@@ -4,12 +4,17 @@
 
 The first part of the project will be an autograded, submission in Learn (students will just need to submit repl.it link)
 
-Fork from this (folder)[https://repl.it/repls/folder/PyBlobs] with links to solutions and starter kits.
+**Resources**:
+
+- [pyblobs_roundtable_starter](https://repl.it/@audreyandoy/pyblobsroundtablestarter)
+- [pyblobs_roundtable_refactored](https://repl.it/@audreyandoy/pyblobsroundtablerefactored)
+- [pyblobs_pair_starter_kit](https://repl.it/@audreyandoy/pyblobspairstarterkit)
+- [pyblobs_pair_final](https://repl.it/@audreyandoy/pyblobspairstarterkit)
 
 **Roundtable Agenda**:
 
 General:
-- Start class with with show-your-blobs from submission link
+- (Optional) Greet class and take attendance with Pyblobs window open to set the theme of the roundtable.
 
 LiveCode:
 - Instructor does a LiveCode with this [starter kit](https://repl.it/@audreyandoy/pyblobsroundtablestarter#main.py) of how to refactor
