@@ -23,7 +23,7 @@ How to submit using Git for the first time:
     - Add all files to staging with `$ git add -A`
     - Make a commit with a meaningful commit message `$ git commit -m "Your message here"`
 1. Push your project commit to your own project repo
-    - Run `$ git push` or `$ git push origin main`
+    - Run `$ git push` or `$ git push origin master`
 1. Get the URL of _**your own**_ project repo.
 
 Place the URL of your own project repo here.
@@ -57,9 +57,9 @@ How to make a Pull Request on GitHub for the first time:
 1. Begin a new pull request by clicking "New Pull Request"
 1. Configure this PR so it compares your project against Ada's:
     - **base repository** is `<some-ada-repo>/<project-name>`
-    - **base** is `main`
+    - **base** is `master`
     - **head repository** is `<your-username>/<project-name>`
-    - **compare** is `main`
+    - **compare** is `master`
 1. Add more details by clicking "Create pull request":
     - For the PR title, include:
         - Your class name
