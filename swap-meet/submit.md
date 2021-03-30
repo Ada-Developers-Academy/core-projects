@@ -9,8 +9,8 @@
 * title: Fork URL for Grading
 * upstream: https://github.com/AdaGold/swap-meet
 * validate_fork: false
-* points: [3]
-* topics: [python, fundamentals, data structures]
+* points: 3
+* topics: python, python-oop
 ##### !question
 
 Place the URL of your own project repo here. Review instructions in the [How to Submit](../ada-project-practices/how-to-submit.md) repo if needed.
@@ -33,8 +33,8 @@ Instructors provide code feedback through pull requests.
 * type: short-answer
 * id: YL29Rp
 * title: Pull Request for Feedback
-* points: [3]
-* topics: [python, fundamentals, data structures]
+* points: 3
+* topics: python, python-oop
 ##### !question
 
 Make a pull request against the original project repo. Place the URL of the pull request here. Review instructions in the [How to Submit](../ada-project-practices/how-to-submit.md) repo if needed.
