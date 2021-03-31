@@ -9,7 +9,7 @@
 * title: Fork URL for Grading
 * upstream: https://github.com/AdaGold/swap-meet
 * validate_fork: false
-* points: 3
+* points: 0
 * topics: python, python-oop
 ##### !question
 
