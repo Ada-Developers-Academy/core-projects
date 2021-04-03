@@ -14,7 +14,7 @@ Python is such a versatile language. We can create APIs, do data analysis, build
 
 **What is pygame?**
 
-Pygame is a library that allows developers to create games using Python.
+(Pygame)[https://www.pygame.org/wiki/about] is a library that allows developers to create games using Python.
 To provide a better visual picture of OOP, we’ll be creating an animation of blobs! 
 
 <iframe src="https://giphy.com/embed/9DFDu1xmCeXvil0FcR" width="252" height="280" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/9DFDu1xmCeXvil0FcR">via GIPHY</a></p>
