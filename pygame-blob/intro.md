@@ -22,7 +22,7 @@ To provide a better visual picture of OOP, we’ll be creating an animation of b
 
 ## Project
 
-Pyblobs will be a **2-day project**. The first day will consist of a tutorial which can be done independently. The second day will consist of working in pairs to extend the project made from the tutorial.
+Pyblobs is a **2-day project**. The first day you will make an animation in pygame by completing a tutorial independently. The second day we will review the content of the tutorial together in round tables and then you will work in pairs to extend and enhance your animations.
 
 
 ## Tutorial
@@ -144,4 +144,3 @@ def handle_collisions(blob_list):
 ```
 
 2) Create a collision effect to the new class made in Wave 1. The effect can involve blobs shrinking, growing, changing colors or increasing a counter variable. Feel free to refer to [Detecting collisions](https://pythonprogramming.net/detecting-collisions-intermediate-python-tutorial/) for an example.
-
