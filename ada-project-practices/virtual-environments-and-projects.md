@@ -1,5 +1,7 @@
 # Virtual Environments and Projects
 
+<iframe src="https://adaacademy.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=d9067779-45c7-404a-b4d4-acd9016b33a0&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&start=0&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
+
 ## Ada Projects Will Use Virtual Environments
 
 Ada projects will ask us to use virtual environments during project development.
@@ -36,7 +38,7 @@ The phrase "dev environment" describes the setup of a computer system used to ru
 
 A virtual environment is an environment that is virtually created. In this case, "virtual" means that something exists, but not in actuality. A virtual environment is an entire computer system that installs and runs software, but it doesn't inhabit a dedicated physical machine... it was created and runs inside another environment.
 
-If we wanted to suddenly write one project in specifically Python 3.8.4, but our current laptop has Python 3.8.5 installed, instead of reinstalling and uninstalling different versions of Python, we would might carry around a second laptop.
+If we wanted to suddenly write one project in specifically Python 3.8.4, but our current laptop has Python 3.8.5 installed, instead of reinstalling and uninstalling different versions of Python, we might be required to carry around a second laptop.
 
 Instead of carrying around laptops, we could use virtual environments.
 
