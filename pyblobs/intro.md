@@ -1,12 +1,12 @@
-# Pygame Blob
+# Pyblob Intro 
 
 ## Skills Assessed
 - Solving problems with… 
+    - Importing modules 
     - Creating Classes
     - Create instances 
     - Using inheritance
     - Overriding methods 
-    - Importing modules 
     - Using dunder methods
 
 ## Goals
@@ -33,7 +33,7 @@ We will follow this tutorial on [pythonprogramming.net](https://pythonprogrammin
 
 To create our game we will use **repl.it**, a browser based IDE. Repl allows developers to create and run mini applications in the browser. We highly suggest [creating an account](https://repl.it/signup) with Repl using your github credentials. This will allow you to create repositories and commits to Github using Repl's interface. 
 
-For a more collaborative experience, we also suggest using repl's multiplayer feature to have you and your partner edit on the same repl together. To use multiplayer mode, click "Share" on the top right, a pop-up window should appear with the invite tab open. Type in your partners username and click 'invite'. 
+For a more collaborative experience, we also suggest using repl's multiplayer feature to have you and your partner edit on the same repl together. To use multiplayer mode, click "Share" on the top right corner, a pop-up window should appear with the invite tab open. Type in your partners username and click 'invite'. 
 
 
 ## Getting Started with Pygame 
