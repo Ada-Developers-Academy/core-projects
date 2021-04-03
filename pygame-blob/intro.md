@@ -19,7 +19,6 @@ To provide a better visual picture of OOP, we’ll be creating an animation of b
 
 <iframe src="https://giphy.com/embed/9DFDu1xmCeXvil0FcR" width="252" height="280" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/9DFDu1xmCeXvil0FcR">via GIPHY</a></p>
 
-
 ## Project
 
 Pyblobs is a **2-day project**. The first day you will make an animation in pygame by completing a tutorial independently. The second day we will review the content of the tutorial together in round tables and then you will work in pairs to extend and enhance your animations.
@@ -54,6 +53,10 @@ We will complete 5 lessons from this [tutorial](https://pythonprogramming.net/ob
 - [Blob Class and Modularity OOP](https://pythonprogramming.net/class-object-modularity-intermediate-python-tutorial/)
 - [Inheritance - OOP](https://pythonprogramming.net/inheritance-object-oriented-programming-intermediate-python-tutorial/)
 
+### Optional Reading (No more blobs, but some fun python OOP concepts)
+- [Decorators in Python](https://pythonprogramming.net/decorators-intermediate-python-tutorial/) 
+- [Special Methods, OOP, and Iteration Python](https://pythonprogramming.net/special-methods-iteration-intermediate-python-tutorial/)
+
 <!-- prettier-ignore-start -->
 ### !challenge
 
@@ -62,7 +65,7 @@ We will complete 5 lessons from this [tutorial](https://pythonprogramming.net/ob
 * title: Reflection Question 1: check_bounds
 
 ##### !question
-At the end of the lesson, the author has this to say about the check_bounds method: "Now, the programmer can decide to use it or not. You could also give some sort of argument in the move method, where, if `True`, then boundaries would be enforced."
+At the end of `Blob Class and Modularity OOP`, the author has this to say about the check_bounds method: "Now, the programmer can decide to use it or not. You could also give some sort of argument in the move method, where, if `True`, then boundaries would be enforced."
 
 Consider how you would implement this optional enforcement of boundary checking, and record your thoughts here.
 ##### !end-question
@@ -100,10 +103,6 @@ Input your answer here
 ### !end-challenge
 
 <!-- prettier-ignore-end -->
-
-### Optional Reading (No more blobs, but some fun python OOP concepts)
-- [Decorators in Python](https://pythonprogramming.net/decorators-intermediate-python-tutorial/) 
-- [Special Methods, OOP, and Iteration Python](https://pythonprogramming.net/special-methods-iteration-intermediate-python-tutorial/)
 
 ## Pair Project - Day 2
 
