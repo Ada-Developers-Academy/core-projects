@@ -65,7 +65,7 @@ We will complete 5 lessons from this [tutorial](https://pythonprogramming.net/ob
 * title: Reflection Question 1: check_bounds
 
 ##### !question
-At the end of `Blob Class and Modularity OOP`, the author has this to say about the check_bounds method: "Now, the programmer can decide to use it or not. You could also give some sort of argument in the move method, where, if `True`, then boundaries would be enforced."
+At the end of [Blob Class and Modularity OOP](https://pythonprogramming.net/class-object-modularity-intermediate-python-tutorial/), the author has this to say about the check_bounds method: "Now, the programmer can decide to use it or not. You could also give some sort of argument in the move method, where, if `True`, then boundaries would be enforced."
 
 Consider how you would implement this optional enforcement of boundary checking, and record your thoughts here.
 ##### !end-question
