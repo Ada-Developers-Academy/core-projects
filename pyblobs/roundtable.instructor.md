@@ -1,4 +1,6 @@
-*** DRAFT: Until further discussion about Roundtables** Used this (C14 roundatable)[https://github.com/gSchool/ada-developer-skills/blob/9044b8bccaefe1a5e43e6c83fb486a84b55f913b/02-unit2-roundtable-guides/01-wk09-rails-day-1.md] as a template.
+# Intstructor Notes
+
+Template for this roundtable [https://github.com/gSchool/ada-developer-skills/blob/9044b8bccaefe1a5e43e6c83fb486a84b55f913b/02-unit2-roundtable-guides/01-wk09-rails-day-1.md]
 
 <!-- **Instructor Info**:
 
