@@ -27,7 +27,7 @@ Pyblobs is a **2-day project**. The first day you will make an animation in pyga
 
 ## Tutorial
 
-The tutorial will be done independently on day 1 of the project. We'll follow this tutorial on [pythonprogramming.net](https://pythonprogramming.net/object-oriented-programming-introduction-intermediate-python-tutorial/). 
+We will follow this tutorial on [pythonprogramming.net](https://pythonprogramming.net/object-oriented-programming-introduction-intermediate-python-tutorial/). 
 
 
 ## Initial Set Up
