@@ -45,3 +45,22 @@ Standards:
         Type: Checkpoint
         UID: 094ab5b9366d7d1a7b26f82950f43efe
         Path: /swap-meet/submit.md
+  -
+    Title: Pyblobs
+    Description: "Unit 1 Activity: Pyblobs"
+    UID: 798f5c36-d49a-4c1c-b893-8ec1f893d44d
+    SuccessCriteria:
+      - success criteria
+    ContentFiles:
+      -
+        Type: Lesson
+        UID: c9b2c82e-9083-4103-bad7-08addd157c8a
+        Path: /pyblobs/intro.md
+      -
+        Type: Lesson
+        UID: 07f39681-57d2-4b08-a313-b77345ed5f89
+        Path: /pyblobs/roundtable.md
+      -
+        Type: Instructor
+        UID: 12250d28-fc77-46ce-bf61-f5fca4751f2b
+        Path: /pyblobs/roundtable.instructor.md
