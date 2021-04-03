@@ -1,6 +1,6 @@
-# Pyblobs
+# Roundtable
 
-Today's roundtable will be focused on reviewing the Pyblobs tutorial.
+The roundtable will focus on reviewing the tutorial.
 
 For this discussion, think of your instructor as a mediator and guide, rather than as a lecturer. You are encouraged to do the following:
     - Whenever possible, you should follow the Ada Online Communication Norms 
