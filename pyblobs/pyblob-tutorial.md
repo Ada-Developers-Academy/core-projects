@@ -60,7 +60,7 @@ We will complete 5 lessons from this [tutorial](https://pythonprogramming.net/ob
 <!-- prettier-ignore-start -->
 ### !challenge
 
-* type: short-answer
+* type: paragraph
 * id: be417a18-aed2-47a0-87ff-ff53c2bdf5a2
 * title: Reflection Question 1: check_bounds
 
@@ -69,10 +69,6 @@ At the end of [Blob Class and Modularity OOP](https://pythonprogramming.net/clas
 
 Consider how you would implement this optional enforcement of boundary checking, and record your thoughts here.
 ##### !end-question
-
-##### !answer
-/*+/
-##### !end-answer
 
 ##### !placeholder
 Input your answer here
@@ -84,17 +80,13 @@ Input your answer here
 <!--prettier-ignore-start-->
 ### !challenge
 
-* type: short-answer
+* type: paragraph
 * id: 5d71a7a1-872d-4b4b-9744-4ced52d0985b
 * title: Reflection Question 2: `move` vs `move_fast`
 
 ##### !question
 The author changes the name of the `move` method to `move_fast` in the child class `BlueBlob`. Is this name change necessary? What would happen if we left it as `move`?
 ##### !end-question
-
-##### !answer
-/*+/
-##### !end-answer
 
 ##### !placeholder
 Input your answer here
