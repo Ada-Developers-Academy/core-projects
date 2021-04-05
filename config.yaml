@@ -55,11 +55,15 @@ Standards:
       -
         Type: Lesson
         UID: c9b2c82e-9083-4103-bad7-08addd157c8a
-        Path: /pyblobs/intro.md
+        Path: /pyblobs/pyblob-tutorial.md
       -
         Type: Lesson
         UID: 07f39681-57d2-4b08-a313-b77345ed5f89
-        Path: /pyblobs/roundtable.md
+        Path: /pyblobs/activity-livecode.md
+      -
+        Type: Lesson
+        UID: b3f027df-b52e-4561-a592-e2a1dda8d3d1
+        Path: /pyblobs/activity-group-project.md
       -
         Type: Instructor
         UID: 12250d28-fc77-46ce-bf61-f5fca4751f2b
