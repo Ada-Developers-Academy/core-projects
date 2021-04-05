@@ -54,12 +54,16 @@ Standards:
     ContentFiles:
       -
         Type: Lesson
-        UID: c9b2c82e-9083-4103-bad7-08addd157c8a
-        Path: /pyblobs/intro.md
+        UID: 9a1acec7-fee1-40b2-8db9-bf1baad6b0e7
+        Path: /pyblobs/pyblob-tutorial.md
       -
         Type: Lesson
-        UID: 07f39681-57d2-4b08-a313-b77345ed5f89
-        Path: /pyblobs/roundtable.md
+        UID: 83455d48-a8b2-45e1-805f-78215ce59572
+        Path: /pyblobs/activity-livecode.md
+      -
+        Type: Lesson
+        UID: 83455d48-a8b2-45e1-805f-78215ce59572
+        Path: /pyblobs/activity-group-project.md
       -
         Type: Instructor
         UID: 12250d28-fc77-46ce-bf61-f5fca4751f2b
