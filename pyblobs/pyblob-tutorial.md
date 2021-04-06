@@ -23,7 +23,7 @@ To provide a better visual picture of OOP, we’ll be creating an animation of b
 
 ## Project
 
-Pyblobs is a **2-day project**. The first day you will make an animation in pygame by completing a tutorial independently. The second day we will review the content of the tutorial together in round tables and then you will work in pairs to extend and enhance your animations.
+Pyblobs is a **2-day project**. The first day you will make an animation in pygame by completing a tutorial independently. The second day we will review the content of the tutorial together in round tables and then you will work in groups of four to extend and enhance your animations.
 
 ## Tutorial
 
@@ -33,7 +33,7 @@ We will follow this tutorial on [pythonprogramming.net](https://pythonprogrammin
 
 To create our game we will use **repl.it**, a browser based IDE. Repl allows developers to create and run mini applications in the browser. We highly suggest [creating an account](https://repl.it/signup) with Repl using your github credentials. This will allow you to create repositories and commits to Github using Repl's interface.
 
-For a more collaborative experience, we also suggest using repl's multiplayer feature to have you and your partner edit on the same repl together. To use multiplayer mode, click "Share" on the top right corner, a pop-up window should appear with the invite tab open. Type in your partners username and click 'invite'.
+For a more collaborative experience, we also suggest using repl's multiplayer feature to have you and your partners edit on the same repl together. To use multiplayer mode, click "Share" on the top right corner, a pop-up window should appear with the invite tab open. Type in your partners username and click 'invite'.
 
 ## Getting Started with Pygame
 
