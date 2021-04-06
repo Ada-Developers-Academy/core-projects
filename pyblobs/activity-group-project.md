@@ -1,7 +1,7 @@
 
 # Activity: Pyblob Extension
 
-Now that we have a functioning animation, let's use what we learned about OOP to expand Pyblobs. Work with your partner to execute Wave 1 and Wave 2. Both waves can be executed a variety of ways and breaking down each feature into sub-problems is highly encouraged. Feel free to get as creative as you want with these next waves:
+Now that we have a functioning animation, let's use what we learned about OOP to expand Pyblobs. Work with your partners to execute Wave 1 and Wave 2. Both waves can be executed a variety of ways and breaking down each feature into sub-problems is highly encouraged. Feel free to get as creative as you want with these next waves:
 
 ### Wave 1
 
