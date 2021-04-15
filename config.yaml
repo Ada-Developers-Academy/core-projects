@@ -68,3 +68,18 @@ Standards:
         Type: Instructor
         UID: 12250d28-fc77-46ce-bf61-f5fca4751f2b
         Path: /pyblobs/roundtable.instructor.md
+  -
+    Title: Task List API
+    Description: "Unit 2 Project: Flask"
+    UID: 4MZBWO
+    SuccessCriteria:
+      - success criteria
+    ContentFiles:
+      -
+        Type: Lesson
+        UID: 6JDb8z
+        Path: /task-list-api/intro.md
+      -
+        Type: Checkpoint
+        UID: 5vl91F
+        Path: /task-list-api/submit.md
