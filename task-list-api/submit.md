@@ -34,7 +34,7 @@ Instructors provide code feedback through pull requests.
 * id: sJEYtp
 * title: Pull Request for Feedback
 * points: 3
-* topics: python, python-oop
+* topics: python, flask
 ##### !question
 
 Make a pull request against the original project repo. Place the URL of the pull request here. Review instructions in the [How to Submit](../ada-project-practices/how-to-submit.md) repo if needed.
@@ -43,6 +43,35 @@ Make a pull request against the original project repo. Place the URL of the pull
 ##### !placeholder
 
 The URL to your pull request: https://github.com/<some-ada-repo>/<project-name>/pulls
+
+##### !end-placeholder
+##### !answer
+
+/.+/
+
+##### !end-answer
+### !end-challenge
+<!-- prettier-ignore-end -->
+
+## Deployed on Heroku
+
+<!-- prettier-ignore-start -->
+### !challenge
+* type: short-answer
+* id: tcjYjY
+* title: Heroku App URL
+* points: 3
+* topics: python, flask
+##### !question
+
+If this project was deployed on Heroku, please share the URL to your deployed app.
+
+If this project wasn't deployed on Heroku, please enter "N/A" or "Not Applicable."
+
+##### !end-question
+##### !placeholder
+
+https://your-app-name.herokuapp.com
 
 ##### !end-placeholder
 ##### !answer
