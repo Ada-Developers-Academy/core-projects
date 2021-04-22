@@ -42,7 +42,7 @@ Make a pull request against the original project repo. Place the URL of the pull
 ##### !end-question
 ##### !placeholder
 
-The URL to your pull request: https://github.com/<some-ada-repo>/<project-name>/pulls
+The URL to your pull request: https://github.com/<some-ada-repo>/<project-name>/pulls/<pull-request>
 
 ##### !end-placeholder
 ##### !answer
