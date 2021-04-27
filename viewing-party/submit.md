@@ -7,7 +7,7 @@
 * type: testable-project
 * id: BxHGhu
 * title: Fork URL for Grading
-* upstream: https://github.com/AdaGold/viewing-party
+* upstream: https://github.com/Ada-C15A/viewing-party
 * validate_fork: false
 * points: [3]
 * topics: [python, fundamentals, data structures]
