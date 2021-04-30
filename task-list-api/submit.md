@@ -81,3 +81,24 @@ https://your-app-name.herokuapp.com
 ##### !end-answer
 ### !end-challenge
 <!-- prettier-ignore-end -->
+
+## Describe Optional Enhancements
+
+<!-- prettier-ignore-start -->
+### !challenge
+* type: paragraph
+* id: WdFAd7
+* title: Describe Optional Enhancements
+* points: 1
+* topics: python, flask
+##### !question
+
+If any optional enhancements were completed during this project, please describe them here.
+
+This description is used to help reviewers see any optional enhancements.
+
+If this project does not have any completed optional enhancements, please enter "N/A," "Not Applicable," or "Focused on requirements."
+
+##### !end-question
+### !end-challenge
+<!-- prettier-ignore-end -->
