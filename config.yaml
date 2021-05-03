@@ -80,6 +80,10 @@ Standards:
         UID: 6JDb8z
         Path: /task-list-api/intro.md
       -
+        Type: Instructor
+        UID: N279mX
+        Path: /task-list-api/midpoint.instructor.md
+      -
         Type: Lesson
         UID: NhClYt
         Path: /task-list-api/midpoint.md
