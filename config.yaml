@@ -80,6 +80,10 @@ Standards:
         UID: 6JDb8z
         Path: /task-list-api/intro.md
       -
+        Type: Lesson
+        UID: NhClYt
+        Path: /task-list-api/midpoint.md
+      -
         Type: Checkpoint
         UID: 5vl91F
         Path: /task-list-api/submit.md
