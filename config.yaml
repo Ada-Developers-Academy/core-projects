@@ -91,3 +91,18 @@ Standards:
         Type: Checkpoint
         UID: 5vl91F
         Path: /task-list-api/submit.md
+  -
+    Title: Personal Portfolio Site
+    Description: "Unit 3 Project: Static Site Development"
+    UID: rmX3Ue
+    SuccessCriteria:
+      - success criteria
+    ContentFiles:
+      -
+        Type: Lesson
+        UID: FmKOc0
+        Path: /personal-portfolio-site/intro.md
+      -
+        Type: Checkpoint
+        UID: 1B0tKx
+        Path: /personal-portfolio-site/submit.md
