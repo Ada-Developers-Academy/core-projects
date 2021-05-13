@@ -21,12 +21,11 @@ The URL to your project repo on GitHub: https://github.com/<your-username>/<proj
 
 ##### !answer
 
-/.+/
+/^https:\/\/github\.com\/[^\/]+\/[^\/]+\/pull\/\d?\d[\/]?/?/
 
 ##### !end-answer
 
 ### !end-challenge
 
 <!-- prettier-ignore-end -->
-
 
