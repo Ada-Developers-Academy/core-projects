@@ -1,17 +1,17 @@
-# Submit: Video Store Part 1: Video Store API
+# Part 1 Submit: Video Store API
 
-## Submit Project for Feedback
+## Submit API for Feedback
 
 <!-- prettier-ignore-start -->
 ### !challenge
 
 * type: short-answer
-* id: 0e8ae002-05eb-4605-b302-c236d397b446
+* id: 0f51eeda-d431-40a6-94fe-a07d2fd1af39
 * title: Pull Request for Feedback
 
 ##### !question
 
-Make a pull request against the original project repo. Place the URL of the pull request here. Review instructions in the [How to Submit](../ada-project-practices/how-to-submit.md) repo if needed.
+Make a pull request against the [Video Store API repo](https://github.com/AdaGold/retro-video-store). Place the URL of the pull request here. Review instructions in the [How to Submit](../ada-project-practices/how-to-submit.md) repo if needed.
 
 ##### !end-question
 
