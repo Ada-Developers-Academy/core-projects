@@ -29,3 +29,20 @@ The URL to your project repo on GitHub: https://github.com/<your-username>/<proj
 
 <!-- prettier-ignore-end -->
 
+# Describe Optional Enhancements or Current Progress at Submission
+
+<!-- prettier-ignore-start -->
+### !challenge
+* type: paragraph
+* id: 62dd2722-57e3-4624-bf1f-3067e18b87b5
+* title: Describe Optional Enhancements or Current Progress at Submission
+* topics: python, flask
+##### !question
+
+Please describe the optional enhancements you have added or describe your current progress in the project. 
+
+##### !end-question
+### !end-challenge
+<!-- prettier-ignore-end -->
+
+
