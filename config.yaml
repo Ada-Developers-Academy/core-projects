@@ -106,3 +106,22 @@ Standards:
         Type: Checkpoint
         UID: 1B0tKx
         Path: /personal-portfolio-site/submit.md
+  -
+    Title: Weather Report
+    Description: "Unit 3 Project: Event Handling"
+    UID: 8ff38305
+    SuccessCriteria:
+      - success criteria
+    ContentFiles:
+      -
+        Type: Instructor
+        UID: 6fc86e09
+        Path: /weather-report/weather-report.instructor.md
+      -
+        Type: Lesson
+        UID: 2eff792f
+        Path: /weather-report/intro.md
+      -
+        Type: Checkpoint
+        UID: 82e27d6e
+        Path: /weather-report/submit.md
