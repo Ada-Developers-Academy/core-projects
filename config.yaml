@@ -144,3 +144,18 @@ Standards:
         Type: Checkpoint
         UID: 82e27d6e
         Path: /weather-report/submit.md
+  -
+    Title: React Tic-Tac-Toe
+    Description: "Unit 3 Project: Event Handling in React"
+    UID: d384fc84
+    SuccessCriteria:
+      - success criteria
+    ContentFiles:
+      -
+        Type: Lesson
+        UID: 127cd416
+        Path: /react-tic-tac-toe/intro.md
+      -
+        Type: Checkpoint
+        UID: e8526c70
+        Path: /react-tic-tac-toe/submit.md
