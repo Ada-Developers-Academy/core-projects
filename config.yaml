@@ -171,6 +171,10 @@ Standards:
       - success criteria
     ContentFiles:
       -
+        Type: Instructor
+        UID: c36cc560
+        Path: /inspiration-board/inspiration-board.instructor.md
+      -
         Type: Lesson
         UID: 0425bf8b
         Path: /inspiration-board/intro.md
