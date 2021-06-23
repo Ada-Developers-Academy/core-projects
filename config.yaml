@@ -163,3 +163,18 @@ Standards:
         Type: Checkpoint
         UID: e8526c70
         Path: /react-tic-tac-toe/submit.md
+  -
+    Title: Inspiration Board
+    Description: "Unit 3 Project: Connecting Front-end and Back-end Layers"
+    UID: d5299051
+    SuccessCriteria:
+      - success criteria
+    ContentFiles:
+      -
+        Type: Lesson
+        UID: 0425bf8b
+        Path: /inspiration-board/intro.md
+      -
+        Type: Checkpoint
+        UID: edd56b1f
+        Path: /inspiration-board/submit.md
