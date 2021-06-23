@@ -10,6 +10,14 @@ The project description, and only the project description, lives in [the full-st
 
 The front-end and back-end repos do **not** have any project descriptions. This is to minimize conflicting and contradictory requirements.
 
+### !callout-danger
+
+## No seriously, keep the project descriptions only in the full-stack repo
+
+Too many past projects have had two repos with conflicting information :(
+
+### !end-callout
+
 ## About the Scaffolds
 
 The front-end scaffold is minimal. This is to:
@@ -23,3 +31,13 @@ The front-end scaffold is minimal. This is to:
 All three repos must be forked to Ada-CX.
 
 The back-end scaffold was taken from my implementation, and then had the guts ripped out.
+
+### !callout-success
+
+## Replacing Links Or Else the Students Will Be Sad
+
+In the full-stack-inspiration-board repo, in the "One time setup steps," the first few directions are about forking the front-end and back-end repos.
+
+This link will need to be updated from AdaGold -> Ada-CX, otherwise students will fork from AdaGold! :( :(
+
+### !end-callout
