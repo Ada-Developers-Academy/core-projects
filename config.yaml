@@ -164,7 +164,7 @@ Standards:
         UID: e8526c70
         Path: /react-tic-tac-toe/submit.md
   -
-    Title: Inspiration Board
+    Title: Full-Stack Inspiration Board
     Description: "Unit 3 Project: Connecting Front-end and Back-end Layers"
     UID: d5299051
     SuccessCriteria:
@@ -173,12 +173,12 @@ Standards:
       -
         Type: Instructor
         UID: c36cc560
-        Path: /inspiration-board/inspiration-board.instructor.md
+        Path: /full-stack-inspiration-board/full-stack-inspiration-board.instructor.md
       -
         Type: Lesson
         UID: 0425bf8b
-        Path: /inspiration-board/intro.md
+        Path: /full-stack-inspiration-board/intro.md
       -
         Type: Checkpoint
         UID: edd56b1f
-        Path: /inspiration-board/submit.md
+        Path: /full-stack-inspiration-board/submit.md

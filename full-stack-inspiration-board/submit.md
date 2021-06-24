@@ -1,4 +1,4 @@
-# Submit: Inspiration Board
+# Submit: Full-Stack Inspiration Board
 
 ## Team
 
@@ -55,14 +55,14 @@ Instructors provide code feedback through pull requests.
 * topics: js, react
 ##### !question
 
-Make a pull request for your front-end repo against the original front-end repo.
+Make a pull request for your team's front-end repo against the original front-end repo.
 
 Place the URL of the pull request here. Review instructions in the [How to Submit](../ada-project-practices/how-to-submit.md) repo if needed.
 
 ##### !end-question
 ##### !placeholder
 
-The URL to your pull request: https://github.com/<some-ada-repo>/<project-name>/pulls/<pull-request>
+The URL to your team's pull request: https://github.com/<some-ada-repo>/<project-name>/pulls/<pull-request>
 
 ##### !end-placeholder
 ##### !answer
@@ -82,14 +82,14 @@ The URL to your pull request: https://github.com/<some-ada-repo>/<project-name>/
 * topics: js, react
 ##### !question
 
-Make a pull request for your back-end repo against the original back-end repo.
+Make a pull request for your team's back-end repo against the original back-end repo.
 
 Place the URL of the pull request here. Review instructions in the [How to Submit](../ada-project-practices/how-to-submit.md) repo if needed.
 
 ##### !end-question
 ##### !placeholder
 
-The URL to your pull request: https://github.com/<some-ada-repo>/<project-name>/pulls/<pull-request>
+The URL to your team's pull request: https://github.com/<some-ada-repo>/<project-name>/pulls/<pull-request>
 
 ##### !end-placeholder
 ##### !answer
@@ -111,9 +111,9 @@ The URL to your pull request: https://github.com/<some-ada-repo>/<project-name>/
 * topics: js, react
 ##### !question
 
-If this project's front-end layer was deployed on Heroku, please share the URL to your deployed app.
+If your team's front-end layer was deployed on Heroku, please share the URL to your team's deployed app.
 
-If this project wasn't deployed, please enter "N/A" or "Not Applicable."
+If this repo wasn't deployed, please enter "N/A" or "Not Applicable."
 
 ##### !end-question
 ##### !answer
@@ -133,9 +133,9 @@ If this project wasn't deployed, please enter "N/A" or "Not Applicable."
 * topics: js, react
 ##### !question
 
-If this project's back-end layer was deployed on Heroku, please share the URL to your deployed app.
+If your team's back-end layer was deployed on Heroku, please share the URL to your team's deployed API.
 
-If this project wasn't deployed, please enter "N/A" or "Not Applicable."
+If this repo wasn't deployed, please enter "N/A" or "Not Applicable."
 
 ##### !end-question
 ##### !answer
