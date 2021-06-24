@@ -1,4 +1,4 @@
-# Instructor: Inspiration Board
+# Instructor: Full-Stack Inspiration Board
 
 The project has three repos:
 

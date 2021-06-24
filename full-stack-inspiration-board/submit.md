@@ -1,4 +1,4 @@
-# Submit: Inspiration Board
+# Submit: Full-Stack Inspiration Board
 
 ## Team
 
