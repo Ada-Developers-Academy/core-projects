@@ -30,21 +30,21 @@ Standards:
         Type: Lesson
         UID: 79b4aad1f3dbbcd07eb6010a6feb8c9e
         Path: /viewing-party/submit.md
-  # -
-  #   Title: AdaGrams
-  #   Description: "Unit 1 Project: Programming Fundamentals, Pair Programming"
-  #   UID: d82288a7-65ae-4059-a7e4-0c6abd263d0f
-  #   SuccessCriteria:
-  #     - success criteria
-  #   ContentFiles:
-  #     -
-  #       Type: Lesson
-  #       UID: d8f37606-19dd-4c23-b677-ab9e1a9013a2
-  #       Path: /adagrams/intro.md
-  #     -
-  #       Type: Lesson
-  #       UID: c1522732-a4da-43a5-b1dd-c4de8a2cc9c6
-  #       Path: /adagrams/submit.md
+  -
+    Title: AdaGrams
+    Description: "Unit 1 Project: Programming Fundamentals, Pair Programming"
+    UID: d82288a7-65ae-4059-a7e4-0c6abd263d0f
+    SuccessCriteria:
+      - success criteria
+    ContentFiles:
+      -
+        Type: Lesson
+        UID: d8f37606-19dd-4c23-b677-ab9e1a9013a2
+        Path: /adagrams/intro.md
+      -
+        Type: Lesson
+        UID: c1522732-a4da-43a5-b1dd-c4de8a2cc9c6
+        Path: /adagrams/submit.md
   -
     Title: Swap Meet
     Description: "Unit 1 Project: OOP"
