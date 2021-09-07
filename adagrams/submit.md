@@ -81,20 +81,6 @@ Reflect on the pair programming experience.  Respond to the following prompts:
 
 ##### !end-placeholder
 
-<!--optional-->
-##### !hint
-
-##### !end-hint
-
-<!--optional, checkpoints only-->
-##### !rubric
-
-##### !end-rubric
-
-<!--optional-->
-##### !explanation
-
-##### !end-explanation
 
 ### !end-challenge
 
