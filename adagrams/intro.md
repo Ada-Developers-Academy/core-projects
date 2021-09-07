@@ -1,4 +1,4 @@
-# Project: Swap Meet
+# Project: Adagrams
 
 | Logistics             | Details                              |
 | --------------------- | ------------------------------------ |
