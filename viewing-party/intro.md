@@ -4,8 +4,7 @@
 
 | Logistics             | Details                                  |
 | --------------------- | ---------------------------------------- |
-| Original project repo | https://github.com/Ada-C15/viewing-party |
-| Project details       | https://github.com/Ada-C15/viewing-party |
+| Original project repo | https://github.com/Ada-C16/viewing-party |
+| Project details       | https://github.com/Ada-C16/viewing-party |
 | Should you fork this? | Yes (Check project details)              |
-| Submission due        | 9AMPT, 03/29                             |
 | Submission method     | Learn                                    |
