@@ -5,7 +5,7 @@
 <!-- prettier-ignore-start -->
 ### !challenge
 * type: testable-project
-* id: 79Czep
+* id: b8a12109-a8d6-40d4-b7f7-900e32cd8962
 * title: Fork URL for Grading
 * upstream: https://github.com/AdaGold/adagrams-py
 * validate_fork: false
@@ -31,7 +31,7 @@ Instructors provide code feedback through pull requests.
 <!-- prettier-ignore-start -->
 ### !challenge
 * type: short-answer
-* id: YL29Rp
+* id: 5b90babb-bd0c-4bde-8eac-7b92a3623d86
 * title: Pull Request for Feedback
 * points: 3
 * topics: python, python-oop
