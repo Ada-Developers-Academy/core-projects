@@ -84,6 +84,25 @@ Standards:
         UID: 12250d28-fc77-46ce-bf61-f5fca4751f2b
         Path: /pyblobs/roundtable.instructor.md
   -
+    Title: Solar System API
+    Description: "Unit 2 Project: Flask, Pair Programming"
+    UID: f881aa8a-2f20-4523-8c23-fb1cab6c91fb
+    SuccessCriteria:
+      - success criteria
+    ContentFiles:
+      -
+          Type: Lesson
+          UID: 57c735ca-c2d5-48c8-bbea-a08a2dae1345
+          Path: /solar-system-api/intro.md
+      -
+          Type: Lesson
+          UID: 3e20e0ad-a38a-4b8e-915e-8659f6f7ea24
+          Path: /solar-system-api/submit-part-1.md
+      -
+          Type: Lesson
+          UID: b53c0c7c-23ea-4572-a8f6-a146b7cc38d8
+          Path: /solar-system-api/submit-part-2.md
+  -
     Title: Task List API
     Description: "Unit 2 Project: Flask"
     UID: 4MZBWO
