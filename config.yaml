@@ -99,7 +99,7 @@ Standards:
           UID: 3e20e0ad-a38a-4b8e-915e-8659f6f7ea24
           Path: /solar-system-api/submit-part-1.md
       -
-          Type: Lesson
+          Type: Checkpoint
           UID: b53c0c7c-23ea-4572-a8f6-a146b7cc38d8
           Path: /solar-system-api/submit-part-2.md
   -
@@ -137,7 +137,7 @@ Standards:
         UID: 94b6c609-65c4-45fa-9448-c8ab913dc1e8
         Path: /video-store/intro.md
       -
-        Type: Lesson
+        Type: Checkpoint
         UID: 7436976b-b177-4195-9502-e5a099fdefc5
         Path: /video-store/part-1-submit.md
       -
