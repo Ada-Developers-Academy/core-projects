@@ -1,4 +1,4 @@
-# Part 1 Submit: Video Store API
+# Submit: Video Store API
 
 ## Submit API for Feedback
 
@@ -44,5 +44,44 @@ Please describe the optional enhancements you have added or describe your curren
 ##### !end-question
 ### !end-challenge
 <!-- prettier-ignore-end -->
+
+## Reflect on Pair Programming
+
+<!--BEGIN CHALLENGE-->
+
+### !challenge
+
+* type: paragraph
+* id: 043f6762-1091-45ab-a94f-3cea1cbaf2fa
+* title: Reflection
+
+##### !question
+
+Reflect on the pair programming experience.  Respond to the following prompts:
+
+- How was working in a pair similar or different to working individually?
+- What were pair programming strategies that you found effective?
+- What were some of the challenges of working in a pair that you had to overcome?
+- How did pair programming impact your learning (positive or negative)?
+
+
+##### !end-question
+
+##### !placeholder
+
+<!--Placeholder text-->
+
+##### !end-placeholder
+
+
+### !end-challenge
+
+<!--END CHALLENGE-->
+
+
+
+
+
+
 
 
