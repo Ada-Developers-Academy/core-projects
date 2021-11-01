@@ -139,7 +139,7 @@ Standards:
       -
         Type: Checkpoint
         UID: 7436976b-b177-4195-9502-e5a099fdefc5
-        Path: /video-store/submit.md
+        Path: /retro-video-store/submit.md
   -
     Title: Personal Portfolio Site
     Description: "Unit 3 Project: Static Site Development"
