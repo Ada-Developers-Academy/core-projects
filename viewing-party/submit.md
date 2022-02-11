@@ -9,8 +9,8 @@
 * title: Fork URL for Grading
 * upstream: https://github.com/AdaGold/viewing-party
 * validate_fork: false
-* points: [3]
-* topics: [python, fundamentals, data structures]
+* points: 0
+* topics: python, fundamentals, data structures
 ##### !question
 
 How to submit using Git for the first time:
@@ -46,8 +46,8 @@ Instructors provide code feedback through pull requests.
 * type: short-answer
 * id: bd0a629e-32c3-4c66-976b-654ab4e7f430
 * title: Pull Request for Feedback
-* points: [3]
-* topics: [python, fundamentals, data structures]
+* points: 3
+* topics: python, fundamentals, data structures
 ##### !question
 
 How to make a Pull Request on GitHub for the first time:
