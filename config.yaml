@@ -2,15 +2,11 @@
 Standards:
   -
     Title: Ada Project Practices
-    Description: Virtual Environments and Projects, How to Submit
+    Description: How to Submit
     UID: 3fc7752e2637f641643b9be4b1e005cc
     SuccessCriteria:
       - success criteria
     ContentFiles:
-      -
-        Type: Lesson
-        UID: UZp4J5
-        Path: /ada-project-practices/virtual-environments-and-projects.md
       -
         Type: Lesson
         UID: a2bcf77b287de2764675801ed5667e3b
