@@ -60,7 +60,7 @@ The URL to your pull request: https://github.com/<some-ada-repo>/<project-name>/
 * type: short-answer
 * id: tcjYjY
 * title: Heroku App URL
-* points: 3
+* points: 0
 * topics: python, flask
 ##### !question
 
@@ -89,7 +89,7 @@ https://your-app-name.herokuapp.com
 * type: paragraph
 * id: WdFAd7
 * title: Describe Optional Enhancements
-* points: 1
+* points: 0
 * topics: python, flask
 ##### !question
 
