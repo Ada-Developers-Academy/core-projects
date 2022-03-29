@@ -36,7 +36,7 @@ The URL to your pull request: https://github.com/<some-ada-repo>/<project-name>/
 * type: paragraph
 * id: bac13504-0aba-4270-a045-4f156f2d803c
 * title: Describe Optional Enhancements
-* points: 1
+* points: 0
 * topics: python, flask
 ##### !question
 
@@ -59,6 +59,7 @@ If this project does not have any completed optional enhancements, please enter 
 * type: paragraph
 * id: 69d45f74-2f61-4e66-b116-d71c4b92f674
 * title: Reflection
+* points: 0
 
 ##### !question
 
