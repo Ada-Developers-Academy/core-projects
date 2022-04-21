@@ -152,6 +152,21 @@ Standards:
         UID: 1B0tKx
         Path: /personal-portfolio-site/submit.md
   -
+    Title: JS Adagrams
+    Description: "Unit 3 Project: Javascript"
+    UID: 14a79f98-07d1-431f-b0af-fffe0fdc2b8d
+    SuccessCriteria:
+      - success criteria
+    ContentFiles:
+      -
+        Type: Lesson
+        UID: 48307594-b338-4454-9b0d-c16feca22ed6
+        Path: /js-adagrams/intro.md
+      -
+        Type: Checkpoint
+        UID: f10a9424-c7a8-47a8-9a48-b24f20ae7b69
+        Path: /js-adagrams/submit.md
+  -
     Title: Weather Report
     Description: "Unit 3 Project: Event Handling"
     UID: 8ff38305
