@@ -98,21 +98,21 @@ Standards:
         Type: Checkpoint
         UID: 5vl91F
         Path: /task-list-api/submit.md
-  # -
-  #   Title: Retro Video Store 
-  #   Description: "Unit 2 Project: Flask 2"
-  #   UID: 43b3c7df-1b5e-40de-ade9-8f39a3536a85
-  #   SuccessCriteria:
-  #     - success criteria
-  #   ContentFiles:
-  #     -
-  #       Type: Lesson
-  #       UID: 94b6c609-65c4-45fa-9448-c8ab913dc1e8
-  #       Path: /retro-video-store/intro.md
-  #     -
-  #       Type: Checkpoint
-  #       UID: 7436976b-b177-4195-9502-e5a099fdefc5
-  #       Path: /retro-video-store/submit.md
+  -
+    Title: Retro Video Store 
+    Description: "Unit 2 Project: Flask 2"
+    UID: 43b3c7df-1b5e-40de-ade9-8f39a3536a85
+    SuccessCriteria:
+      - success criteria
+    ContentFiles:
+      -
+        Type: Lesson
+        UID: 94b6c609-65c4-45fa-9448-c8ab913dc1e8
+        Path: /retro-video-store/intro.md
+      -
+        Type: Checkpoint
+        UID: 7436976b-b177-4195-9502-e5a099fdefc5
+        Path: /retro-video-store/submit.md
   -
     Title: Personal Portfolio Site
     Description: "Unit 3 Project: Static Site Development"
