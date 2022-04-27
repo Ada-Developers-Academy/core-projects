@@ -59,3 +59,36 @@ The URL to your pull request: https://github.com/<some-ada-repo>/<project-name>/
 ### !end-challenge
 
 <!-- ======================= END CHALLENGE ======================= -->
+
+<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
+
+### !challenge
+
+* type: paragraph
+* id: d6f8779c-040d-4277-9c08-d66d1e123f32
+* title: Reflection
+* points: 0
+* topics: javascript
+
+##### !question
+
+Reflect on your process and your learning by answering one or more of the following questions:
+1. What patterns were you able to use from your Python knowledge to apply to JavaScript?
+1. Did you need to use different strategies to find information online about JavaScript than you would for Python?
+1. What was something you needed to do independent research on for this project? What did you learn?
+1. What was a challenge you overcame on this assignment?
+1. What has been interesting and/or positive about learning a new programming language?
+1. What is something to focus on in learning JavaScript in the coming week?
+
+##### !end-question
+
+##### !placeholder
+
+Reflection
+
+##### !end-placeholder
+
+### !end-challenge
+
+<!-- ======================= END CHALLENGE ======================= -->
+
