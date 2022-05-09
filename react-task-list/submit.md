@@ -7,7 +7,7 @@ Instructors provide code feedback through pull requests.
 <!-- prettier-ignore-start -->
 ### !challenge
 * type: short-answer
-* id: 07b039f2-2b80-4589-b5f5-bef04dd765b8
+* id: e8272e7e-5738-4558-ac5e-a306a8d93275
 * title: Pull Request for Feedback
 * points: 3
 * topics: react
@@ -34,7 +34,7 @@ The URL to your pull request: https://github.com/<some-ada-repo>/<project-name>/
 <!-- prettier-ignore-start -->
 ### !challenge
 * type: short-answer
-* id: b7c7d256
+* id: a2e5c1c3-9ab4-45d5-bbf2-384c7602fadb
 * title: Deployed Project URL
 * points: 0
 * topics: react

@@ -157,14 +157,14 @@ Standards:
   -
     Title: React Chatlog
     Description: "Unit 3 Project: Event Handling in React"
-    UID: d384fc84
+    UID: 8f58b6da-599b-4270-811b-0d68ffd86b4d
     SuccessCriteria:
       - success criteria
     ContentFiles:
       -
         Type: Instructor
         UID: 79fee2bd-5b06-42b3-886b-609d60d8c82f
-        Path: /react-chat-log/react-chatlog.instructor.md
+        Path: /react-chat-log/chatlog.instructor.md
       -
         Type: Lesson
         UID: 7f31dd98-8f77-482a-b196-0507f9ef1a84
@@ -176,7 +176,7 @@ Standards:
   -
     Title: React Task List
     Description: "Unit 3 Project: State, Event Handling, and Fullstack"
-    UID: d384fc84
+    UID: bd3f4c6c-25aa-4bd0-88e7-031ac3d93193
     SuccessCriteria:
       - success criteria
     ContentFiles:
