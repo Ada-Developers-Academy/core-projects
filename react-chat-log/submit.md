@@ -36,7 +36,7 @@ The URL to your pull request: https://github.com/<some-ada-repo>/<project-name>/
 * type: short-answer
 * id: 0f6ec5a3-7950-42c4-b359-4021747b1dc8
 * title: Deployed Project URL
-* points: 0
+* points: 1
 * topics: react
 ##### !question
 

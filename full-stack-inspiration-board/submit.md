@@ -7,7 +7,7 @@
 * type: short-answer
 * id: 8cc8180b
 * title: Team Name
-* points: 3
+* points: 1
 * topics: js, react
 ##### !question
 
@@ -27,7 +27,7 @@ What is your team's name?
 * type: short-answer
 * id: cf93052f
 * title: Team Slack Channel
-* points: 3
+* points: 1
 * topics: js, react
 ##### !question
 
@@ -107,7 +107,7 @@ The URL to your team's pull request: https://github.com/<some-ada-repo>/<project
 * type: short-answer
 * id: dbc7d00e
 * title: Heroku URL for Front-end
-* points: 3
+* points: 1
 * topics: js, react
 ##### !question
 
@@ -129,7 +129,7 @@ If this repo wasn't deployed, please enter "N/A" or "Not Applicable."
 * type: short-answer
 * id: fcb1a95e
 * title: Heroku URL for Back-end
-* points: 3
+* points: 1
 * topics: js, react
 ##### !question
 
@@ -174,7 +174,7 @@ If this project does not have any completed stretch goals, please enter "N/A," "
 * type: short-answer
 * id: a125bbe6
 * title: Final Presentation Link
-* points: 3
+* points: 1
 * topics: js, react
 ##### !question
 
