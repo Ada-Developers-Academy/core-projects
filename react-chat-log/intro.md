@@ -2,6 +2,6 @@
 
 | Logistics               | Details                                                                                |
 | ----------------------- | -------------------------------------------------------------------------------------- |
-| Project details         | [https://github.com/Ada-C16/weather-report](https://github.com/Ada-C16/weather-report) |
+| Project details         | [https://github.com/Ada-C17/react-chatlog](https://github.com/Ada-C17/react-chatlog) |
 | Should you fork this?   | Yes                                                                                    |
 | Final submission method | Learn                                                                                  |
