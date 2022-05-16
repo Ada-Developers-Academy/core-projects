@@ -8,7 +8,7 @@
 * title: Fork URL for Grading
 * upstream: https://github.com/AdaGold/js-adagrams
 * validate_fork: false
-* points: 0
+* points: 1
 * topics: javascript
 
 ##### !question
@@ -67,7 +67,7 @@ The URL to your pull request: https://github.com/<some-ada-repo>/<project-name>/
 * type: paragraph
 * id: d6f8779c-040d-4277-9c08-d66d1e123f32
 * title: Reflection
-* points: 0
+* points: 1
 * topics: javascript
 
 ##### !question
