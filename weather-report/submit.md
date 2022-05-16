@@ -36,7 +36,7 @@ The URL to your pull request: https://github.com/<some-ada-repo>/<project-name>/
 * type: short-answer
 * id: b7c7d256
 * title: Deployed Project URL
-* points: 3
+* points: 1
 * topics: html, css, js
 ##### !question
 
