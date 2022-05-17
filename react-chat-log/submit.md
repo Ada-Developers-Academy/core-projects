@@ -1,4 +1,4 @@
-# Submit: Weather Report
+# Submit: React Chatlog
 
 ## Submit Project for Feedback
 
@@ -7,10 +7,10 @@ Instructors provide code feedback through pull requests.
 <!-- prettier-ignore-start -->
 ### !challenge
 * type: short-answer
-* id: d7d34a3a
+* id: 90b32f5d-d166-4da1-8985-0bfa0783c119
 * title: Pull Request for Feedback
 * points: 3
-* topics: html, css, js
+* topics: react
 ##### !question
 
 Make a pull request against the original project repo. Place the URL of the pull request here. Review instructions in the [How to Submit](../ada-project-practices/how-to-submit.md) repo if needed.
@@ -34,10 +34,10 @@ The URL to your pull request: https://github.com/<some-ada-repo>/<project-name>/
 <!-- prettier-ignore-start -->
 ### !challenge
 * type: short-answer
-* id: b7c7d256
+* id: 0f6ec5a3-7950-42c4-b359-4021747b1dc8
 * title: Deployed Project URL
 * points: 1
-* topics: html, css, js
+* topics: react
 ##### !question
 
 If this project is deployed and live on the Internet, please share the URL to your deployed app.

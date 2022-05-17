@@ -1,4 +1,4 @@
-# Submit: Weather Report
+# Submit: React Task List
 
 ## Submit Project for Feedback
 
@@ -7,10 +7,10 @@ Instructors provide code feedback through pull requests.
 <!-- prettier-ignore-start -->
 ### !challenge
 * type: short-answer
-* id: d7d34a3a
+* id: e8272e7e-5738-4558-ac5e-a306a8d93275
 * title: Pull Request for Feedback
 * points: 3
-* topics: html, css, js
+* topics: react
 ##### !question
 
 Make a pull request against the original project repo. Place the URL of the pull request here. Review instructions in the [How to Submit](../ada-project-practices/how-to-submit.md) repo if needed.
@@ -34,10 +34,10 @@ The URL to your pull request: https://github.com/<some-ada-repo>/<project-name>/
 <!-- prettier-ignore-start -->
 ### !challenge
 * type: short-answer
-* id: b7c7d256
+* id: a2e5c1c3-9ab4-45d5-bbf2-384c7602fadb
 * title: Deployed Project URL
 * points: 1
-* topics: html, css, js
+* topics: react
 ##### !question
 
 If this project is deployed and live on the Internet, please share the URL to your deployed app.

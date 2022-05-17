@@ -155,6 +155,44 @@ Standards:
         UID: 82e27d6e
         Path: /weather-report/submit.md
   -
+    Title: React Chatlog
+    Description: "Unit 3 Project: Event Handling in React"
+    UID: 8f58b6da-599b-4270-811b-0d68ffd86b4d
+    SuccessCriteria:
+      - success criteria
+    ContentFiles:
+      -
+        Type: Instructor
+        UID: 79fee2bd-5b06-42b3-886b-609d60d8c82f
+        Path: /react-chat-log/chatlog.instructor.md
+      -
+        Type: Lesson
+        UID: 7f31dd98-8f77-482a-b196-0507f9ef1a84
+        Path: /react-chat-log/intro.md
+      -
+        Type: Checkpoint
+        UID: 05f30a78-a164-475d-9e53-a8ef91c0bf9e
+        Path: /react-chat-log/submit.md
+  -
+    Title: React Task List
+    Description: "Unit 3 Project: State, Event Handling, and Fullstack"
+    UID: bd3f4c6c-25aa-4bd0-88e7-031ac3d93193
+    SuccessCriteria:
+      - success criteria
+    ContentFiles:
+      -
+        Type: Instructor
+        UID: bee0c702-2493-4f5f-b9e0-8b7f20c5e17b
+        Path: /react-task-list/react-tasklist.instructor.md
+      -
+        Type: Lesson
+        UID: 2329db4c-8c0e-4c8a-8f43-eac50283ca4c
+        Path: /react-task-list/intro.md
+      -
+        Type: Checkpoint
+        UID: c8c4b9b9-573d-4ef9-8e00-d39100cf4149
+        Path: /react-task-list/submit.md      
+  -
     Title: React Tic-Tac-Toe
     Description: "Unit 3 Project: Event Handling in React"
     UID: d384fc84
