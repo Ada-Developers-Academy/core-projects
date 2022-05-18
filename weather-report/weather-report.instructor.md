@@ -1,6 +1,8 @@
 # Instructor: Weather Report
 
-Simon's example solution is here: [https://simons-weather-report.surge.sh/](https://simons-weather-report.surge.sh/)
+Solution with real time weather data is here: [https://adagold.github.io/weather-report/](https://adagold.github.io/weather-report/)
+
+Simon's example solution is here (C15-C16): [https://simons-weather-report.surge.sh/](https://simons-weather-report.surge.sh/)
 
 # Grading and Scaffolding
 
