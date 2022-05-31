@@ -1,4 +1,4 @@
-# Project: React Task List
+# Project: Task List Front End
 
 | Logistics               | Details                                                                                |
 | ----------------------- | -------------------------------------------------------------------------------------- |
