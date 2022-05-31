@@ -174,7 +174,7 @@ Standards:
         UID: 05f30a78-a164-475d-9e53-a8ef91c0bf9e
         Path: /react-chat-log/submit.md
   -
-    Title: React Task List
+    Title: Task List Front End
     Description: "Unit 3 Project: State, Event Handling, and Fullstack"
     UID: bd3f4c6c-25aa-4bd0-88e7-031ac3d93193
     SuccessCriteria:
