@@ -1,5 +1,29 @@
 # Submit: React Chatlog
 
+## Submit Project for Grading
+
+<!-- prettier-ignore-start -->
+### !challenge
+* type: testable-project
+* id: 30fefb40-6a97-40fa-87e3-c274f367f3e4
+* title: Fork URL for Grading
+* upstream: https://github.com/AdaGold/react-chatlog
+* validate_fork: false
+* points: 0
+* topics: js, react
+##### !question
+
+Place the URL of your own project repo here. Review instructions in the [How to Submit](../ada-project-practices/how-to-submit.md) repo if needed.
+
+##### !end-question
+##### !placeholder
+
+The URL to your project repo on GitHub: https://github.com/<your-username>/<project-name>
+
+##### !end-placeholder
+### !end-challenge
+<!-- prettier-ignore-end -->
+
 ## Submit Project for Feedback
 
 Instructors provide code feedback through pull requests.
@@ -7,7 +31,7 @@ Instructors provide code feedback through pull requests.
 <!-- prettier-ignore-start -->
 ### !challenge
 * type: short-answer
-* id: 90b32f5d-d166-4da1-8985-0bfa0783c119
+* id: 127139b9-b3c0-44d3-8885-acfad7baed9f
 * title: Pull Request for Feedback
 * points: 3
 * topics: react
