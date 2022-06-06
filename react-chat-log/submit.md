@@ -22,6 +22,15 @@ The URL to your project repo on GitHub: https://github.com/<your-username>/<proj
 
 ##### !end-placeholder
 ### !end-challenge
+
+<!-- available callout types: info, success, warning, danger, secondary, star  -->
+### !callout-warning
+
+## Submission Troubleshooting
+
+If your submission never completes, there might be warnings preventing it. Make sure to remove any `console.log` statements in your code to make it easier to see any warnings that may be reported during the tests (even if the tests appear to be passing). Address any warnings being reported, push your changes, then try to submit again!
+
+### !end-callout
 <!-- prettier-ignore-end -->
 
 ## Submit Project for Feedback
