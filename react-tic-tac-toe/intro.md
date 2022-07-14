@@ -2,6 +2,6 @@
 
 | Logistics             | Details                                      |
 | --------------------- | -------------------------------------------- |
-| Project repo          | [https://github.com/Ada-C17/react-tic-tac-toe](https://github.com/Ada-C17/react-tic-tac-toe) |
+| Project repo          | [https://github.com/Ada-C18/react-tic-tac-toe](https://github.com/Ada-C18/react-tic-tac-toe) |
 | Should you fork this? | Yes                                          |
 | Submission method     | Learn                                        |
