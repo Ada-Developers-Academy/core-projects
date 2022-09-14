@@ -13,12 +13,12 @@
 * topics: python, python-oop
 ##### !question
 
-Place the URL of your team project repo here. Review instructions in the [How to Submit](../ada-project-practices/how-to-submit.md) repo if needed.
+Place the URL of your project repo here. Review instructions in the [How to Submit](../ada-project-practices/how-to-submit.md) repo if needed.
 
 ##### !end-question
 ##### !placeholder
 
-The URL to your team project repo on GitHub: https://github.com/<your-username>/<project-name>
+The URL to your project repo on GitHub: https://github.com/<your-username>/<project-name>
 
 ##### !end-placeholder
 ### !end-challenge
@@ -42,7 +42,7 @@ Make a pull request against the original project repo. Place the URL of the pull
 ##### !end-question
 ##### !placeholder
 
-The URL to your team pull request: https://github.com/<some-ada-repo>/<project-name>/pulls
+The URL to your pull request: https://github.com/<some-ada-repo>/<project-name>/pulls
 
 ##### !end-placeholder
 ##### !answer
@@ -53,35 +53,3 @@ The URL to your team pull request: https://github.com/<some-ada-repo>/<project-n
 ### !end-challenge
 <!-- prettier-ignore-end -->
 
-## Reflect on Pair Programming
-
-<!--BEGIN CHALLENGE-->
-
-### !challenge
-
-* type: paragraph
-* id: 0a403185-cde2-4a5b-9bfb-7333ff3db9f9
-* title: Reflection
-
-##### !question
-
-Reflect on the pair programming experience.  Respond to the following prompts:
-
-- How was working in a pair similar or different to working individually?
-- What were pair programming strategies that you found effective?
-- What were some of the challenges of working in a pair that you had to overcome?
-- How did pair programming impact your learning (positive or negative)?
-
-
-##### !end-question
-
-##### !placeholder
-
-<!--Placeholder text-->
-
-##### !end-placeholder
-
-
-### !end-challenge
-
-<!--END CHALLENGE-->
