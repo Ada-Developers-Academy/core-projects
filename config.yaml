@@ -13,7 +13,7 @@ Standards:
         Path: /ada-project-practices/how-to-submit.md
   -
     Title: Viewing Party
-    Description: "Unit 1 Project: Programming Fundamentals"
+    Description: "Precourse Project: Programming Fundamentals"
     UID: 687ba6c9a090110d939df3281701e530
     SuccessCriteria:
       - success criteria
@@ -28,7 +28,7 @@ Standards:
         Path: /viewing-party/submit.md
   -
     Title: Optional - AdaGrams
-    Description: "Unit 1 Project: Programming Fundamentals, Pair Programming"
+    Description: "Precourse Optional Project: Programming Fundamentals, Pair Programming"
     UID: d82288a7-65ae-4059-a7e4-0c6abd263d0f
     SuccessCriteria:
       - success criteria
