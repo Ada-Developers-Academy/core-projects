@@ -7,7 +7,7 @@
 * type: testable-project
 * id: b8a12109-a8d6-40d4-b7f7-900e32cd8962
 * title: Fork URL for Grading
-* upstream: https://github.com/AdaGold/adagrams-py
+* upstream: https://github.com/ada-ac2/adagrams-py
 * validate_fork: false
 * points: 0
 * topics: python, python-oop
