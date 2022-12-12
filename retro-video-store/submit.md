@@ -7,7 +7,7 @@
 * type: testable-project
 * id: 60995b93-9b0f-4d6f-8b0f-f1afea46776b
 * title: Fork URL for Grading
-* upstream: https://github.com/AdaGold/retro-video-store
+* upstream: https://github.com/ada-ac2/retro-video-store
 * validate_fork: false
 * points: 0
 * topics: python, flask
@@ -64,9 +64,9 @@ The URL to your pull request: https://github.com/<some-ada-repo>/<project-name>/
 * topics: python, flask
 ##### !question
 
-If this project was deployed on Heroku, please share the URL to your deployed app.
+Please share the URL to your deployed app.
 
-If this project wasn't deployed on Heroku, please enter "N/A" or "Not Applicable."
+If you were unable to deploy your project, please enter "N/A" or "Not Applicable."
 
 ##### !end-question
 ##### !placeholder
@@ -123,8 +123,6 @@ Reflect on the pair programming experience.  Respond to the following prompts:
 ##### !end-question
 
 ##### !placeholder
-
-<!--Placeholder text-->
 
 ##### !end-placeholder
 
