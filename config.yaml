@@ -76,7 +76,7 @@ Standards:
           UID: b53c0c7c-23ea-4572-a8f6-a146b7cc38d8
           Path: /solar-system-api/submit-part-2.md
   -
-    Title: Task List API
+    Title: Retro Video Store
     Description: "Unit 2 Project: Flask"
     UID: 4MZBWO
     SuccessCriteria:
@@ -85,25 +85,10 @@ Standards:
       -
         Type: Lesson
         UID: 6JDb8z
-        Path: /task-list-api/intro.md
-      -
-        Type: Checkpoint
-        UID: 5vl91F
-        Path: /task-list-api/submit.md
-  -
-    Title: Retro Video Store 
-    Description: "Unit 2 Project: Flask 2"
-    UID: 43b3c7df-1b5e-40de-ade9-8f39a3536a85
-    SuccessCriteria:
-      - success criteria
-    ContentFiles:
-      -
-        Type: Lesson
-        UID: 94b6c609-65c4-45fa-9448-c8ab913dc1e8
         Path: /retro-video-store/intro.md
       -
         Type: Checkpoint
-        UID: 7436976b-b177-4195-9502-e5a099fdefc5
+        UID: 5vl91F
         Path: /retro-video-store/submit.md
   -
     Title: Personal Portfolio Site
