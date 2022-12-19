@@ -83,6 +83,10 @@ Standards:
       - success criteria
     ContentFiles:
       -
+        Type: Instructor
+        UID: b80e9a43-50e2-4f3d-820c-2c224296fc93
+        Path: /retro-video-store/solution.instructor.md
+      -
         Type: Lesson
         UID: 6JDb8z
         Path: /retro-video-store/intro.md
