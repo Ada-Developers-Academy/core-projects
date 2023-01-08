@@ -91,7 +91,7 @@ Standards:
         UID: 5vl91F
         Path: /retro-video-store/submit.md
   -
-    Title: Personal Portfolio Site
+    Title: Group Fansite
     Description: "Unit 3 Project: Static Site Development"
     UID: rmX3Ue
     SuccessCriteria:
@@ -100,11 +100,11 @@ Standards:
       -
         Type: Lesson
         UID: FmKOc0
-        Path: /personal-portfolio-site/intro.md
+        Path: /group-fan-site/intro.md
       -
         Type: Checkpoint
         UID: 1B0tKx
-        Path: /personal-portfolio-site/submit.md
+        Path: /group-fan-site/submit.md
   -
     Title: JS Adagrams
     Description: "Unit 3 Project: Javascript"
