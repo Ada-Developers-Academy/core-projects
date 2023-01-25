@@ -2,7 +2,7 @@
 
 | Logistics                   | Details                                                                                                            |
 | --------------------------- | ------------------------------------------------------------------------------------------------------------------ |
-| Project details             | [https://github.com/Ada-C18/full-stack-inspiration-board](https://github.com/Ada-C18/full-stack-inspiration-board) |
+| Project details             | [https://github.com/ada-ac2/full-stack-inspiration-board](https://github.com/ada-ac2/full-stack-inspiration-board) |
 | Team or Individual?         | Team                                                                                                               |
 | Should your team fork this? | Fork the separate front-end and back-end repos. Directions within "One-time Setup" document.                       |
 | Final submission method     | Learn and Presentation                                                                                             |
