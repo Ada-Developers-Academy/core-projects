@@ -2,6 +2,6 @@
 
 | Logistics               | Details                                                                                |
 | ----------------------- | -------------------------------------------------------------------------------------- |
-| Project details         | [https://github.com/Ada-C18/react-chatlog](https://github.com/Ada-C18/react-chatlog) |
+| Project details         | [https://github.com/Ada-ac2/react-chatlog](https://github.com/Ada-C18/react-chatlog)](https://github.com/ada-ac2/react-chatlog) |
 | Should you fork this?   | Yes                                                                                    |
 | Final submission method | Learn                                                                                  |
