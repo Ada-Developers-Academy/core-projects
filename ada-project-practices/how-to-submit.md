@@ -18,7 +18,7 @@ Unless there are other directions, the typical flow for submitting a project is
     - Add all files to staging with `$ git add -A`
     - Make a commit with a meaningful commit message `$ git commit -m "Your message here"`
 1. Push your project commit to your own project repo
-    - Run `$ git push` or `$ git push origin master`
+    - Run `$ git push` or `$ git push origin main`
 
 ### Getting Code onto GitHub
 
@@ -40,9 +40,9 @@ Use your git skills to make a git history and push it up!
 1. Begin a new pull request by clicking "New Pull Request"
 1. Configure this PR so it compares your project against Ada's:
     - **base repository** is `<some-ada-repo>/<project-name>`
-    - **base** is `master`
+    - **base** is `main`
     - **head repository** is `<your-username>/<project-name>`
-    - **compare** is `master`
+    - **compare** is `main`
 1. Add more details by clicking "Create pull request":
     - For the PR title, include:
         - Your class name
