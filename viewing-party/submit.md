@@ -24,6 +24,7 @@ How to submit using Git for the first time:
     - Make a commit with a meaningful commit message `$ git commit -m "Your message here"`
 1. Push your project commit to your own project repo
     - Run `$ git push` or `$ git push origin master`
+    - You may need to [create a personal access token](https://docs.github.com/en/github/authenticating-to-github/keeping-your-account-and-data-secure/creating-a-personal-access-token) to push your code to github.
 1. Get the URL of _**your own**_ project repo.
 
 Place the URL of your own project repo here.
