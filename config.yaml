@@ -12,23 +12,8 @@ Standards:
         UID: a2bcf77b287de2764675801ed5667e3b
         Path: /ada-project-practices/how-to-submit.md
   -
-    Title: Adagrams
-    Description: "Unit 1 Project: Programming Fundamentals"
-    UID: d82288a7-65ae-4059-a7e4-0c6abd263d0f
-    SuccessCriteria:
-      - success criteria
-    ContentFiles:
-      -
-        Type: Lesson
-        UID: d8f37606-19dd-4c23-b677-ab9e1a9013a2
-        Path: /adagrams/intro.md
-      -
-        Type: Checkpoint
-        UID: c1522732-a4da-43a5-b1dd-c4de8a2cc9c6
-        Path: /adagrams/submit.md
-  -
     Title: Viewing Party
-    Description: "Unit 1 Project: Programming Fundamentals, Pair Programming"
+    Description: "Unit 1 Project: Programming Fundamentals"
     UID: 687ba6c9a090110d939df3281701e530
     SuccessCriteria:
       - success criteria
@@ -41,6 +26,21 @@ Standards:
         Type: Checkpoint
         UID: 79b4aad1f3dbbcd07eb6010a6feb8c9e
         Path: /viewing-party/submit.md
+  -
+    Title: AdaGrams
+    Description: "Unit 1 Project: Programming Fundamentals, Pair Programming"
+    UID: d82288a7-65ae-4059-a7e4-0c6abd263d0f
+    SuccessCriteria:
+      - success criteria
+    ContentFiles:
+      -
+        Type: Lesson
+        UID: d8f37606-19dd-4c23-b677-ab9e1a9013a2
+        Path: /adagrams/intro.md
+      -
+        Type: Checkpoint
+        UID: c1522732-a4da-43a5-b1dd-c4de8a2cc9c6
+        Path: /adagrams/submit.md
   -
     Title: Swap Meet
     Description: "Unit 1 Project: OOP"
