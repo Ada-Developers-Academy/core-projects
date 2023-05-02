@@ -15,7 +15,7 @@
 
 How to submit using Git for the first time:
 
-1. Go into your project folder `$ cd viewing-party`
+1. Go into your project folder `$ cd adagrams-py`
 1. Confirm that your project was a fork from the original project repo:
     - Run `$ git remote -v`
     - Confirm that `origin` has a value of _**your own**_ project repo. Your GitHub username should be in the path of `origin`
