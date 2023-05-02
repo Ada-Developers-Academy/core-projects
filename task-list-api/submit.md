@@ -53,25 +53,25 @@ The URL to your pull request: https://github.com/<some-ada-repo>/<project-name>/
 ### !end-challenge
 <!-- prettier-ignore-end -->
 
-## Deployed on Heroku
+## Deployed on Render
 
 <!-- prettier-ignore-start -->
 ### !challenge
 * type: short-answer
 * id: tcjYjY
-* title: Heroku App URL
+* title: Render App URL
 * points: 0
 * topics: python, flask
 ##### !question
 
-If this project was deployed on Heroku, please share the URL to your deployed app.
+If this project was deployed on Render, please share the URL to your deployed app.
 
-If this project wasn't deployed on Heroku, please enter "N/A" or "Not Applicable."
+If this project wasn't deployed on Render, please enter "N/A" or "Not Applicable."
 
 ##### !end-question
 ##### !placeholder
 
-https://your-app-name.herokuapp.com
+https://your-app-name.onrender.com
 
 ##### !end-placeholder
 ##### !answer
