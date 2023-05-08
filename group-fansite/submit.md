@@ -1,4 +1,4 @@
-# Submit: Personal Portfolio Site
+# Submit: Group Fansite
 
 ## Submit Project for Feedback
 
