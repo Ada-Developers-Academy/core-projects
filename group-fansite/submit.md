@@ -1,4 +1,4 @@
-# Submit: Personal Portfolio Site
+# Submit: Group Fansite
 
 ## Submit Project for Feedback
 
@@ -57,3 +57,37 @@ https://your-app-name.github.io
 ##### !end-answer
 ### !end-challenge
 <!-- prettier-ignore-end -->
+
+### !challenge
+
+* type: paragraph
+* id: 5d7f01bc-f835-4af9-853a-589dc5aaddd1
+* title: Reflection
+* points: 0
+<!-- * topics: [python, pandas] (Checkpoints only, optional the topics for analyzing points) -->
+
+##### !question
+
+Reflect on your programming experience. Respond to the following prompts:
+
+- Did you have to resolve any issues when running the HTML Validator? If so, what were they?
+- Why is it important to consider and use semantic HTML?
+- What was the most challenging piece of this assignment?
+- Describe one area that you gained more clarity on when completing this assignment. 
+
+##### !end-question
+
+##### !placeholder
+
+
+
+##### !end-placeholder
+
+<!-- other optional sections -->
+<!-- !hint - !end-hint (markdown, hidden, students click to view) -->
+<!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
+<!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
+
+### !end-challenge
+
+<!-- ======================= END CHALLENGE ======================= -->
