@@ -106,12 +106,12 @@ The URL to your team's pull request: https://github.com/<some-ada-repo>/<project
 ### !challenge
 * type: short-answer
 * id: dbc7d00e
-* title: Heroku URL for Front-end
+* title: Deployed URL for Front-end
 * points: 1
 * topics: js, react
 ##### !question
 
-If your team's front-end layer was deployed on Heroku, please share the URL to your team's deployed app.
+If your team's front-end layer was deployed, please share the URL to your team's deployed app.
 
 If this repo wasn't deployed, please enter "N/A" or "Not Applicable."
 
@@ -128,12 +128,12 @@ If this repo wasn't deployed, please enter "N/A" or "Not Applicable."
 ### !challenge
 * type: short-answer
 * id: fcb1a95e
-* title: Heroku URL for Back-end
+* title: Deployed URL for Back-end
 * points: 1
 * topics: js, react
 ##### !question
 
-If your team's back-end layer was deployed on Heroku, please share the URL to your team's deployed API.
+If your team's back-end layer was deployed, please share the URL to your team's deployed API.
 
 If this repo wasn't deployed, please enter "N/A" or "Not Applicable."
 
