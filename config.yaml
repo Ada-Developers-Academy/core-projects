@@ -84,11 +84,11 @@ Standards:
     ContentFiles:
       -
         Type: Lesson
-        UID: 6JDb8z
+        UID: 3bff2590
         Path: /task-list-api/intro.md
       -
         Type: Checkpoint
-        UID: 5vl91F
+        UID: 5d48a1b4
         Path: /task-list-api/submit.md
   -
     Title: Retro Video Store
