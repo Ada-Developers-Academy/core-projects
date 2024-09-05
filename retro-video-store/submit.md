@@ -7,7 +7,7 @@
 * type: testable-project
 * id: 60995b93-9b0f-4d6f-8b0f-f1afea46776b
 * title: Fork URL for Grading
-* upstream: https://github.com/AdaGold/retro-video-store
+* upstream: https://github.com/Ada-C22/retro-video-store
 * validate_fork: false
 * points: 0
 * topics: python, flask

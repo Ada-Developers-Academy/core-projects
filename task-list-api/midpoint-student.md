@@ -9,7 +9,7 @@ In order for support networks (TAs, instructors, etc.) to better understand wher
 * type: testable-project
 * id: btmRY9
 * title: Fork URL for Midpoint
-* upstream: https://github.com/AdaGold/task-list-api_midpoint
+* upstream: https://github.com/Ada-C22/task-list-api_midpoint
 * validate_fork: false
 * points: 3
 * topics: python, flask

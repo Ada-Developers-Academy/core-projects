@@ -7,7 +7,7 @@
 * type: testable-project
 * id: cBiMNA
 * title: Fork URL for Grading
-* upstream: https://github.com/AdaGold/task-list-api
+* upstream: https://github.com/Ada-C22/task-list-api
 * validate_fork: false
 * points: 0
 * topics: python, flask

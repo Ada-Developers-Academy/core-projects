@@ -7,7 +7,7 @@
 * type: testable-project
 * id: 30fefb40-6a97-40fa-87e3-c274f367f3e4
 * title: Fork URL for Grading
-* upstream: https://github.com/AdaGold/react-chatlog
+* upstream: https://github.com/Ada-C22/react-chatlog
 * validate_fork: false
 * points: 0
 * topics: js, react
