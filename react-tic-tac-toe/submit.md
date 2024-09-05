@@ -7,7 +7,7 @@
 * type: testable-project
 * id: 082c3fdd
 * title: Fork URL for Grading
-* upstream: https://github.com/AdaGold/react-tic-tac-toe
+* upstream: https://github.com/Ada-C22/react-tic-tac-toe
 * validate_fork: false
 * points: 0
 * topics: js, react
