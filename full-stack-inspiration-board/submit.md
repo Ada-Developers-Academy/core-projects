@@ -100,7 +100,7 @@ The URL to your team's pull request: https://github.com/<some-ada-repo>/<project
 ### !end-challenge
 <!-- prettier-ignore-end -->
 
-## Deployed on Heroku
+## Deployment Links
 
 <!-- prettier-ignore-start -->
 ### !challenge
