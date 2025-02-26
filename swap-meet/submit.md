@@ -7,7 +7,7 @@
 * type: testable-project
 * id: 79Czep
 * title: Fork URL for Grading
-* upstream: https://github.com/ada-c19/swap-meet
+* upstream: https://github.com/AdaGold/swap-meet
 * validate_fork: false
 * points: 0
 * topics: python, python-oop

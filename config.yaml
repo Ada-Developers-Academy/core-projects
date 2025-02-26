@@ -18,10 +18,10 @@ Standards:
     SuccessCriteria:
       - success criteria
     ContentFiles:
-      -
-        Type: Lesson
-        UID: d8f37606-19dd-4c23-b677-ab9e1a9013a2
-        Path: /adagrams/intro.md
+      # -
+      #   Type: Lesson
+      #   UID: d8f37606-19dd-4c23-b677-ab9e1a9013a2
+      #   Path: /adagrams/intro.md
       -
         Type: Checkpoint
         UID: c1522732-a4da-43a5-b1dd-c4de8a2cc9c6
@@ -33,10 +33,10 @@ Standards:
     SuccessCriteria:
       - success criteria
     ContentFiles:
-      -
-        Type: Lesson
-        UID: e43d905381b974a17896b57e9012c9e6
-        Path: /viewing-party/intro.md
+      # -
+      #   Type: Lesson
+      #   UID: e43d905381b974a17896b57e9012c9e6
+      #   Path: /viewing-party/intro.md
       -
         Type: Checkpoint
         UID: 79b4aad1f3dbbcd07eb6010a6feb8c9e
@@ -48,10 +48,10 @@ Standards:
     SuccessCriteria:
       - success criteria
     ContentFiles:
-      -
-        Type: Lesson
-        UID: 4ee74067a533f2df08781158cc7116b7
-        Path: /swap-meet/intro.md
+      # -
+      #   Type: Lesson
+      #   UID: 4ee74067a533f2df08781158cc7116b7
+      #   Path: /swap-meet/intro.md
       -
         Type: Checkpoint
         UID: 094ab5b9366d7d1a7b26f82950f43efe
@@ -63,10 +63,10 @@ Standards:
     SuccessCriteria:
       - success criteria
     ContentFiles:
-      -
-          Type: Lesson
-          UID: 57c735ca-c2d5-48c8-bbea-a08a2dae1345
-          Path: /solar-system-api/intro.md
+      # -
+      #     Type: Lesson
+      #     UID: 57c735ca-c2d5-48c8-bbea-a08a2dae1345
+      #     Path: /solar-system-api/intro.md
       -
           Type: Lesson
           UID: 3e20e0ad-a38a-4b8e-915e-8659f6f7ea24
@@ -82,10 +82,10 @@ Standards:
     SuccessCriteria:
       - success criteria
     ContentFiles:
-      -
-        Type: Lesson
-        UID: 6JDb8z
-        Path: /task-list-api/intro.md
+      # -
+      #   Type: Lesson
+      #   UID: 6JDb8z
+      #   Path: /task-list-api/intro.md
       -
         Type: Checkpoint
         UID: 5vl91F
@@ -97,10 +97,10 @@ Standards:
     SuccessCriteria:
       - success criteria
     ContentFiles:
-      -
-        Type: Lesson
-        UID: 94b6c609-65c4-45fa-9448-c8ab913dc1e8
-        Path: /retro-video-store/intro.md
+      # -
+      #   Type: Lesson
+      #   UID: 94b6c609-65c4-45fa-9448-c8ab913dc1e8
+      #   Path: /retro-video-store/intro.md
       -
         Type: Checkpoint
         UID: 7436976b-b177-4195-9502-e5a099fdefc5
@@ -112,10 +112,10 @@ Standards:
     SuccessCriteria:
       - success criteria
     ContentFiles:
-      -
-        Type: Lesson
-        UID: FmKOc0
-        Path: /group-fansite/intro.md
+      # -
+      #   Type: Lesson
+      #   UID: FmKOc0
+      #   Path: /group-fansite/intro.md
       -
         Type: Checkpoint
         UID: 1B0tKx
@@ -127,10 +127,10 @@ Standards:
     SuccessCriteria:
       - success criteria
     ContentFiles:
-      -
-        Type: Lesson
-        UID: 48307594-b338-4454-9b0d-c16feca22ed6
-        Path: /js-adagrams/intro.md
+      # -
+      #   Type: Lesson
+      #   UID: 48307594-b338-4454-9b0d-c16feca22ed6
+      #   Path: /js-adagrams/intro.md
       -
         Type: Checkpoint
         UID: f10a9424-c7a8-47a8-9a48-b24f20ae7b69
@@ -146,10 +146,10 @@ Standards:
         Type: Instructor
         UID: 6fc86e09
         Path: /weather-report/weather-report.instructor.md
-      -
-        Type: Lesson
-        UID: 2eff792f
-        Path: /weather-report/intro.md
+      # -
+      #   Type: Lesson
+      #   UID: 2eff792f
+      #   Path: /weather-report/intro.md
       -
         Type: Checkpoint
         UID: 82e27d6e
@@ -165,10 +165,10 @@ Standards:
         Type: Instructor
         UID: 79fee2bd-5b06-42b3-886b-609d60d8c82f
         Path: /react-chat-log/chatlog.instructor.md
-      -
-        Type: Lesson
-        UID: 7f31dd98-8f77-482a-b196-0507f9ef1a84
-        Path: /react-chat-log/intro.md
+      # -
+      #   Type: Lesson
+      #   UID: 7f31dd98-8f77-482a-b196-0507f9ef1a84
+      #   Path: /react-chat-log/intro.md
       -
         Type: Checkpoint
         UID: 05f30a78-a164-475d-9e53-a8ef91c0bf9e
@@ -184,10 +184,10 @@ Standards:
         Type: Instructor
         UID: bee0c702-2493-4f5f-b9e0-8b7f20c5e17b
         Path: /react-task-list/react-tasklist.instructor.md
-      -
-        Type: Lesson
-        UID: 2329db4c-8c0e-4c8a-8f43-eac50283ca4c
-        Path: /react-task-list/intro.md
+      # -
+      #   Type: Lesson
+      #   UID: 2329db4c-8c0e-4c8a-8f43-eac50283ca4c
+      #   Path: /react-task-list/intro.md
       -
         Type: Checkpoint
         UID: c8c4b9b9-573d-4ef9-8e00-d39100cf4149
@@ -203,10 +203,10 @@ Standards:
         Type: Instructor
         UID: c36cc560
         Path: /full-stack-inspiration-board/full-stack-inspiration-board.instructor.md
-      -
-        Type: Lesson
-        UID: 0425bf8b
-        Path: /full-stack-inspiration-board/intro.md
+      # -
+      #   Type: Lesson
+      #   UID: 0425bf8b
+      #   Path: /full-stack-inspiration-board/intro.md
       -
         Type: Checkpoint
         UID: edd56b1f
