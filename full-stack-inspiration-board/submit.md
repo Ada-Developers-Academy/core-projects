@@ -191,7 +191,7 @@ The first slide must include the team name and each member's name. The presentat
 ### !end-challenge
 <!-- prettier-ignore-end -->
 
-## Reflect on Pair Programming
+## Reflect on Team Programming
 
 <!-- prettier-ignore-start -->
 ### !challenge
@@ -200,12 +200,12 @@ The first slide must include the team name and each member's name. The presentat
 * title: Reflection
 ##### !question
 
-Reflect on the pair programming experience.  Respond to the following prompts:
+Reflect on the team programming experience. Respond to the following prompts:
 
-- How was working in a pair similar or different to working individually?
-- What were pair programming strategies that you found effective?
-- What were some of the challenges of working in a pair that you had to overcome?
-- How did pair programming impact your learning (positive or negative)?
+- How was working in a team similar to or different from working in a pair or individually?
+- What were team programming strategies that you found effective?
+- What were some of the challenges of working in a team that you had to overcome?
+- How did programming as a team impact your learning (positive or negative)?
 
 ##### !end-question
 ##### !placeholder
