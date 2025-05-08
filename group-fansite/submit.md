@@ -90,7 +90,7 @@ Reflect on your programming experience. Respond to the following prompts:
 
 ### !end-challenge
 
-## Reflect on Pair Programming
+## Reflect on Team Programming
 
 <!-- prettier-ignore-start -->
 ### !challenge
