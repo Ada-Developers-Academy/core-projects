@@ -58,14 +58,11 @@ https://your-app-name.github.io
 ### !end-challenge
 <!-- prettier-ignore-end -->
 
-<!--BEGIN CHALLENGE-->
-
+<!-- prettier-ignore-start -->
 ### !challenge
-
 * type: paragraph
 * id: b529a9e1-95db-4a02-867d-4e65b7baaf6f
 * title: Reflection
-
 ##### !question
 
 Reflect on the pair programming experience.  Respond to the following prompts:
@@ -75,16 +72,11 @@ Reflect on the pair programming experience.  Respond to the following prompts:
 - What were some of the challenges of working in a pair that you had to overcome?
 - How did pair programming impact your learning (positive or negative)?
 
-
 ##### !end-question
-
 ##### !placeholder
 
-<!--Placeholder text-->
+My reflections on the questions above are...
 
 ##### !end-placeholder
-
-
 ### !end-challenge
-
-<!--END CHALLENGE-->
+<!-- prettier-ignore-end -->

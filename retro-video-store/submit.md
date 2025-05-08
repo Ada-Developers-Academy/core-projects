@@ -102,14 +102,11 @@ Please describe the optional enhancements you have added or describe your curren
 
 ## Reflect on Pair Programming
 
-<!--BEGIN CHALLENGE-->
-
+<!-- prettier-ignore-start -->
 ### !challenge
-
 * type: paragraph
-* id: 043f6762-1091-45ab-a94f-3cea1cbaf2fa
+* id: 0a403185-cde2-4a5b-9bfb-7333ff3db9f7
 * title: Reflection
-
 ##### !question
 
 Reflect on the pair programming experience.  Respond to the following prompts:
@@ -119,20 +116,14 @@ Reflect on the pair programming experience.  Respond to the following prompts:
 - What were some of the challenges of working in a pair that you had to overcome?
 - How did pair programming impact your learning (positive or negative)?
 
-
 ##### !end-question
-
 ##### !placeholder
 
-<!--Placeholder text-->
+My reflections on the questions above are...
 
 ##### !end-placeholder
-
-
 ### !end-challenge
-
-<!--END CHALLENGE-->
-
+<!-- prettier-ignore-end -->
 
 
 
