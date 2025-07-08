@@ -95,8 +95,8 @@ The URL to your team pull request: https://github.com/<some-ada-repo>/<project-n
 
 If you used AI tools while working on this project, please share links to the AI chats you used to discuss the project and answer the following questions:
 - How did you confirm that the information the AI shared was up to date and accurate?
-- What feedback did you find useful or think would be helpful to keep in mind for the future?
-- What feedback was not useful or relevant?
+- What suggestions did you find useful or think would be helpful to keep in mind for the future?
+- What suggestions were not useful or relevant?
 
 Please respond "N/A" if you did not use any AI resources
 
