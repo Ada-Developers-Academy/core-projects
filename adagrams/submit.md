@@ -93,12 +93,12 @@ The URL to your team pull request: https://github.com/<some-ada-repo>/<project-n
 * title: Tool Usage Reflection
 ##### !question
 
-If you used AI tools while working on this project, please share links to the AI chats you used to discuss the project and answer the following questions:
+If you used AI tools while working on this project, please reflect on your usage and answer the following questions:
 - How did you confirm that the information the AI shared was up to date and accurate?
 - What suggestions did you find useful or think would be helpful to keep in mind for the future?
 - What suggestions were not useful or relevant?
 
-Please respond "N/A" if you did not use any AI resources
+Please respond "N/A" if you did not use any AI resources.
 
 ##### !end-question
 ##### !placeholder
@@ -106,6 +106,32 @@ Please respond "N/A" if you did not use any AI resources
 My reflections on the questions above are...
 
 ##### !end-placeholder
+### !end-challenge
+<!-- prettier-ignore-end -->
+
+<!-- prettier-ignore-start -->
+### !challenge
+* type: short-answer
+* id: 0a403185-cde2-4a5b-9bfb-7333ff3db9632
+* title: Tool Usage Reflection
+##### !question
+
+If you used AI tools while working on this project, please share links to the AI chats you used to discuss the project below. 
+- If there are multiple chats, please separate each URL with a space. 
+
+Please respond "N/A" if you did not use any AI resources.
+
+##### !end-question
+##### !placeholder
+
+Add AI chat URLs here if relevant.
+
+##### !end-placeholder
+##### !answer
+
+/.+/
+
+##### !end-answer
 ### !end-challenge
 <!-- prettier-ignore-end -->
 
