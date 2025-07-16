@@ -148,7 +148,7 @@ My reflections on the questions above are...
 ##### !question
 
 If you used AI tools while working on this project, please share links to the AI chats you used to discuss the project below. 
-- If there are multiple chats, please separate each URL with a space. 
+- If there are multiple chats, please place each URL on a new line. 
 
 Please respond "N/A" if you did not use any AI resources.
 
