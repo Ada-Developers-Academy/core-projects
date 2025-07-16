@@ -84,7 +84,7 @@ The URL to your team pull request: https://github.com/<some-ada-repo>/<project-n
 ### !end-challenge
 <!-- prettier-ignore-end -->
 
-## Tool Usage Reflection
+## Tool Usage Reflections
 
 <!-- prettier-ignore-start -->
 ### !challenge
