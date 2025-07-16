@@ -111,7 +111,7 @@ My reflections on the questions above are...
 
 <!-- prettier-ignore-start -->
 ### !challenge
-* type: short-answer
+* type: paragraph
 * id: 0a403185-cde2-4a5b-9bfb-7333ff3db9632
 * title: Tool Usage Reflection
 ##### !question
@@ -127,11 +127,6 @@ Please respond "N/A" if you did not use any AI resources.
 Add AI chat URLs here if relevant.
 
 ##### !end-placeholder
-##### !answer
-
-/.+/
-
-##### !end-answer
 ### !end-challenge
 <!-- prettier-ignore-end -->
 
